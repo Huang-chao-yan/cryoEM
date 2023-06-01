@@ -1,0 +1,1581 @@
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of our TF is 0.118925.
+The error of number 35 slice is 0.008126.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of our TF is Inf.
+The error of number 35 slice is 83476179240250.375000.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of our TF is 0.113005.
+The error of number 35 slice is 0.009158.
+The RE of TV adapt is 0.060005.
+The error of number 35 slice is 0.000000.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+ n=   69, projection NO:   600
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of our TF is 0.112258.
+The error of number 35 slice is 0.055609.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of Tikadapt: 0.156408   
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of TV adapt is 0.063870.
+The error of number 35 slice is 0.164737.
+The error of number 35 slice is 0.099525.
+The error of number 35 slice is 0.079971.
+The error of number 35 slice is 0.075257.
+The error of number 35 slice is 0.074220.
+The error of number 35 slice is 0.070372.
+The error of number 35 slice is 0.068088.
+The error of number 35 slice is 0.069316.
+The error of number 35 slice is 0.066079.
+The error of number 35 slice is 0.067305.
+The error of number 35 slice is 0.065300.
+The error of number 35 slice is 0.067886.
+The error of number 35 slice is 0.066000.
+The error of number 35 slice is 0.065278.
+The error of number 35 slice is 0.065089.
+The error of number 35 slice is 0.065036.
+The error of number 35 slice is 0.065057.
+The error of number 35 slice is 0.065131.
+The error of number 35 slice is 0.065232.
+The error of number 35 slice is 0.065354.
+The error of number 35 slice is 0.065483.
+The error of number 35 slice is 0.065582.
+The error of number 35 slice is 0.065674.
+The error of number 35 slice is 0.065730.
+The error of number 35 slice is 0.065754.
+The error of number 35 slice is 0.065731.
+The error of number 35 slice is 0.065676.
+The error of number 35 slice is 0.065589.
+The error of number 35 slice is 0.065487.
+The error of number 35 slice is 0.065388.
+The error of number 35 slice is 0.065292.
+The error of number 35 slice is 0.065189.
+The error of number 35 slice is 0.065065.
+The error of number 35 slice is 0.064954.
+The error of number 35 slice is 0.064839.
+The error of number 35 slice is 0.064743.
+The error of number 35 slice is 0.064650.
+The error of number 35 slice is 0.064568.
+The error of number 35 slice is 0.064498.
+The error of number 35 slice is 0.064436.
+The error of number 35 slice is 0.064386.
+The error of number 35 slice is 0.064339.
+The error of number 35 slice is 0.064287.
+The error of number 35 slice is 0.064235.
+The error of number 35 slice is 0.064176.
+The error of number 35 slice is 0.064119.
+The error of number 35 slice is 0.064077.
+The error of number 35 slice is 0.064050.
+The error of number 35 slice is 0.064040.
+The error of number 35 slice is 0.064031.
+The error of number 35 slice is 0.064031.
+The error of number 35 slice is 0.064035.
+The error of number 35 slice is 0.064048.
+The error of number 35 slice is 0.064065.
+The error of number 35 slice is 0.064080.
+The error of number 35 slice is 0.064102.
+The error of number 35 slice is 0.064124.
+The error of number 35 slice is 0.064147.
+The error of number 35 slice is 0.064173.
+The error of number 35 slice is 0.064199.
+The error of number 35 slice is 0.064230.
+The error of number 35 slice is 0.064253.
+The error of number 35 slice is 0.064270.
+The error of number 35 slice is 0.064281.
+The error of number 35 slice is 0.064291.
+The error of number 35 slice is 0.064303.
+The error of number 35 slice is 0.064318.
+The error of number 35 slice is 0.064333.
+The error of number 35 slice is 0.064347.
+The error of number 35 slice is 0.064364.
+The error of number 35 slice is 0.064377.
+The error of number 35 slice is 0.064391.
+The error of number 35 slice is 0.064406.
+The error of number 35 slice is 0.064422.
+The error of number 35 slice is 0.064436.
+The error of number 35 slice is 0.064450.
+The error of number 35 slice is 0.064465.
+The error of number 35 slice is 0.064480.
+The error of number 35 slice is 0.064498.
+The error of number 35 slice is 0.064509.
+The error of number 35 slice is 0.064518.
+The error of number 35 slice is 0.064528.
+The error of number 35 slice is 0.064541.
+The error of number 35 slice is 0.064551.
+The error of number 35 slice is 0.064560.
+The error of number 35 slice is 0.064572.
+The error of number 35 slice is 0.064582.
+The error of number 35 slice is 0.064588.
+The error of number 35 slice is 0.064595.
+The error of number 35 slice is 0.064604.
+The error of number 35 slice is 0.064613.
+The error of number 35 slice is 0.064623.
+The error of number 35 slice is 0.064636.
+The error of number 35 slice is 0.064653.
+The error of number 35 slice is 0.064671.
+The error of number 35 slice is 0.064685.
+The error of number 35 slice is 0.064696.
+The error of number 35 slice is 0.064709.
+The error of number 35 slice is 0.064720.
+The error of number 35 slice is 0.064733.
+The PSNR of TF adapt is 84.137047.
+The SSIM of TF adapt is 0.812323.
+The FSIM of TF adapt is 0.545534.
+The PSNR of TF adapt is 76.242599.
+The PSNR of TF adapt is 80.073936.
+The PSNR of TF adapt is 82.075564.
+The PSNR of TF adapt is 82.703194.
+The PSNR of TF adapt is 82.947904.
+The PSNR of TF adapt is 83.100525.
+The PSNR of TF adapt is 83.478083.
+The PSNR of TF adapt is 83.442969.
+The PSNR of TF adapt is 83.701047.
+The PSNR of TF adapt is 83.666366.
+The PSNR of TF adapt is 83.850145.
+The PSNR of TF adapt is 83.660914.
+The PSNR of TF adapt is 83.839616.
+The PSNR of TF adapt is 83.924724.
+The PSNR of TF adapt is 83.960019.
+The PSNR of TF adapt is 83.980538.
+The PSNR of TF adapt is 83.993675.
+The PSNR of TF adapt is 84.000120.
+The PSNR of TF adapt is 84.004104.
+The PSNR of TF adapt is 84.005352.
+The PSNR of TF adapt is 84.005188.
+The PSNR of TF adapt is 84.007564.
+The PSNR of TF adapt is 84.009054.
+The PSNR of TF adapt is 84.012996.
+The PSNR of TF adapt is 84.018997.
+The PSNR of TF adapt is 84.028865.
+The PSNR of TF adapt is 84.040587.
+The PSNR of TF adapt is 84.054416.
+The PSNR of TF adapt is 84.069328.
+The PSNR of TF adapt is 84.083411.
+The PSNR of TF adapt is 84.096766.
+The PSNR of TF adapt is 84.110092.
+The PSNR of TF adapt is 84.125175.
+The PSNR of TF adapt is 84.138484.
+The PSNR of TF adapt is 84.151463.
+The PSNR of TF adapt is 84.162400.
+The PSNR of TF adapt is 84.172591.
+The PSNR of TF adapt is 84.181900.
+The PSNR of TF adapt is 84.190071.
+The PSNR of TF adapt is 84.197319.
+The PSNR of TF adapt is 84.203171.
+The PSNR of TF adapt is 84.209115.
+The PSNR of TF adapt is 84.215184.
+The PSNR of TF adapt is 84.220677.
+The PSNR of TF adapt is 84.226694.
+The PSNR of TF adapt is 84.231937.
+The PSNR of TF adapt is 84.235618.
+The PSNR of TF adapt is 84.237917.
+The PSNR of TF adapt is 84.238511.
+The PSNR of TF adapt is 84.238944.
+The PSNR of TF adapt is 84.238457.
+The PSNR of TF adapt is 84.237596.
+The PSNR of TF adapt is 84.235784.
+The PSNR of TF adapt is 84.233569.
+The PSNR of TF adapt is 84.231585.
+The PSNR of TF adapt is 84.228878.
+The PSNR of TF adapt is 84.226131.
+The PSNR of TF adapt is 84.223373.
+The PSNR of TF adapt is 84.220328.
+The PSNR of TF adapt is 84.217250.
+The PSNR of TF adapt is 84.213709.
+The PSNR of TF adapt is 84.210874.
+The PSNR of TF adapt is 84.208580.
+The PSNR of TF adapt is 84.206879.
+The PSNR of TF adapt is 84.205212.
+The PSNR of TF adapt is 84.203379.
+The PSNR of TF adapt is 84.201179.
+The PSNR of TF adapt is 84.198912.
+The PSNR of TF adapt is 84.196797.
+The PSNR of TF adapt is 84.194553.
+The PSNR of TF adapt is 84.192530.
+The PSNR of TF adapt is 84.190498.
+The PSNR of TF adapt is 84.188323.
+The PSNR of TF adapt is 84.186181.
+The PSNR of TF adapt is 84.184134.
+The PSNR of TF adapt is 84.182038.
+The PSNR of TF adapt is 84.179910.
+The PSNR of TF adapt is 84.177721.
+The PSNR of TF adapt is 84.175268.
+The PSNR of TF adapt is 84.173383.
+The PSNR of TF adapt is 84.171671.
+The PSNR of TF adapt is 84.169977.
+The PSNR of TF adapt is 84.167991.
+The PSNR of TF adapt is 84.166249.
+The PSNR of TF adapt is 84.164635.
+The PSNR of TF adapt is 84.162834.
+The PSNR of TF adapt is 84.161114.
+The PSNR of TF adapt is 84.159704.
+The PSNR of TF adapt is 84.158358.
+The PSNR of TF adapt is 84.156780.
+The PSNR of TF adapt is 84.155120.
+The PSNR of TF adapt is 84.153446.
+The PSNR of TF adapt is 84.151458.
+The PSNR of TF adapt is 84.149107.
+The PSNR of TF adapt is 84.146697.
+The PSNR of TF adapt is 84.144699.
+The PSNR of TF adapt is 84.142794.
+The PSNR of TF adapt is 84.140863.
+The PSNR of TF adapt is 84.138992.
+The PSNR of TF adapt is 84.137047.
+The SSIM of TF adapt is 0.628809.
+The SSIM of TF adapt is 0.716714.
+The SSIM of TF adapt is 0.764870.
+The SSIM of TF adapt is 0.780452.
+The SSIM of TF adapt is 0.788937.
+The SSIM of TF adapt is 0.780715.
+The SSIM of TF adapt is 0.791536.
+The SSIM of TF adapt is 0.795461.
+The SSIM of TF adapt is 0.794444.
+The SSIM of TF adapt is 0.798646.
+The SSIM of TF adapt is 0.799340.
+The SSIM of TF adapt is 0.801074.
+The SSIM of TF adapt is 0.802478.
+The SSIM of TF adapt is 0.803803.
+The SSIM of TF adapt is 0.804874.
+The SSIM of TF adapt is 0.805750.
+The SSIM of TF adapt is 0.806547.
+The SSIM of TF adapt is 0.807257.
+The SSIM of TF adapt is 0.808012.
+The SSIM of TF adapt is 0.808737.
+The SSIM of TF adapt is 0.809456.
+The SSIM of TF adapt is 0.810209.
+The SSIM of TF adapt is 0.810889.
+The SSIM of TF adapt is 0.811538.
+The SSIM of TF adapt is 0.812102.
+The SSIM of TF adapt is 0.812661.
+The SSIM of TF adapt is 0.813171.
+The SSIM of TF adapt is 0.813626.
+The SSIM of TF adapt is 0.814055.
+The SSIM of TF adapt is 0.814425.
+The SSIM of TF adapt is 0.814730.
+The SSIM of TF adapt is 0.814999.
+The SSIM of TF adapt is 0.815262.
+The SSIM of TF adapt is 0.815485.
+The SSIM of TF adapt is 0.815685.
+The SSIM of TF adapt is 0.815835.
+The SSIM of TF adapt is 0.815959.
+The SSIM of TF adapt is 0.816052.
+The SSIM of TF adapt is 0.816141.
+The SSIM of TF adapt is 0.816225.
+The SSIM of TF adapt is 0.816280.
+The SSIM of TF adapt is 0.816319.
+The SSIM of TF adapt is 0.816365.
+The SSIM of TF adapt is 0.816398.
+The SSIM of TF adapt is 0.816447.
+The SSIM of TF adapt is 0.816485.
+The SSIM of TF adapt is 0.816494.
+The SSIM of TF adapt is 0.816484.
+The SSIM of TF adapt is 0.816456.
+The SSIM of TF adapt is 0.816417.
+The SSIM of TF adapt is 0.816358.
+The SSIM of TF adapt is 0.816294.
+The SSIM of TF adapt is 0.816210.
+The SSIM of TF adapt is 0.816122.
+The SSIM of TF adapt is 0.816037.
+The SSIM of TF adapt is 0.815943.
+The SSIM of TF adapt is 0.815853.
+The SSIM of TF adapt is 0.815761.
+The SSIM of TF adapt is 0.815669.
+The SSIM of TF adapt is 0.815573.
+The SSIM of TF adapt is 0.815474.
+The SSIM of TF adapt is 0.815381.
+The SSIM of TF adapt is 0.815296.
+The SSIM of TF adapt is 0.815212.
+The SSIM of TF adapt is 0.815127.
+The SSIM of TF adapt is 0.815045.
+The SSIM of TF adapt is 0.814963.
+The SSIM of TF adapt is 0.814879.
+The SSIM of TF adapt is 0.814793.
+The SSIM of TF adapt is 0.814709.
+The SSIM of TF adapt is 0.814629.
+The SSIM of TF adapt is 0.814552.
+The SSIM of TF adapt is 0.814472.
+The SSIM of TF adapt is 0.814390.
+The SSIM of TF adapt is 0.814307.
+The SSIM of TF adapt is 0.814224.
+The SSIM of TF adapt is 0.814144.
+The SSIM of TF adapt is 0.814063.
+The SSIM of TF adapt is 0.813980.
+The SSIM of TF adapt is 0.813900.
+The SSIM of TF adapt is 0.813822.
+The SSIM of TF adapt is 0.813743.
+The SSIM of TF adapt is 0.813661.
+The SSIM of TF adapt is 0.813584.
+The SSIM of TF adapt is 0.813506.
+The SSIM of TF adapt is 0.813426.
+The SSIM of TF adapt is 0.813347.
+The SSIM of TF adapt is 0.813271.
+The SSIM of TF adapt is 0.813194.
+The SSIM of TF adapt is 0.813116.
+The SSIM of TF adapt is 0.813036.
+The SSIM of TF adapt is 0.812957.
+The SSIM of TF adapt is 0.812877.
+The SSIM of TF adapt is 0.812794.
+The SSIM of TF adapt is 0.812715.
+The SSIM of TF adapt is 0.812636.
+The SSIM of TF adapt is 0.812557.
+The SSIM of TF adapt is 0.812478.
+The SSIM of TF adapt is 0.812400.
+The SSIM of TF adapt is 0.812323.
+The FSIM of TF adapt is 0.465207.
+The FSIM of TF adapt is 0.506363.
+The FSIM of TF adapt is 0.526762.
+The FSIM of TF adapt is 0.534126.
+The FSIM of TF adapt is 0.537979.
+The FSIM of TF adapt is 0.535496.
+The FSIM of TF adapt is 0.540590.
+The FSIM of TF adapt is 0.541978.
+The FSIM of TF adapt is 0.542059.
+The FSIM of TF adapt is 0.543756.
+The FSIM of TF adapt is 0.544300.
+The FSIM of TF adapt is 0.544653.
+The FSIM of TF adapt is 0.545446.
+The FSIM of TF adapt is 0.546085.
+The FSIM of TF adapt is 0.546503.
+The FSIM of TF adapt is 0.546864.
+The FSIM of TF adapt is 0.547143.
+The FSIM of TF adapt is 0.547328.
+The FSIM of TF adapt is 0.547568.
+The FSIM of TF adapt is 0.547799.
+The FSIM of TF adapt is 0.548041.
+The FSIM of TF adapt is 0.548299.
+The FSIM of TF adapt is 0.548556.
+The FSIM of TF adapt is 0.548766.
+The FSIM of TF adapt is 0.548991.
+The FSIM of TF adapt is 0.549231.
+The FSIM of TF adapt is 0.549485.
+The FSIM of TF adapt is 0.549734.
+The FSIM of TF adapt is 0.549929.
+The FSIM of TF adapt is 0.550015.
+The FSIM of TF adapt is 0.550121.
+The FSIM of TF adapt is 0.550220.
+The FSIM of TF adapt is 0.550314.
+The FSIM of TF adapt is 0.550383.
+The FSIM of TF adapt is 0.550440.
+The FSIM of TF adapt is 0.550449.
+The FSIM of TF adapt is 0.550467.
+The FSIM of TF adapt is 0.550453.
+The FSIM of TF adapt is 0.550400.
+The FSIM of TF adapt is 0.550380.
+The FSIM of TF adapt is 0.550369.
+The FSIM of TF adapt is 0.550298.
+The FSIM of TF adapt is 0.550245.
+The FSIM of TF adapt is 0.550186.
+The FSIM of TF adapt is 0.550172.
+The FSIM of TF adapt is 0.550209.
+The FSIM of TF adapt is 0.550208.
+The FSIM of TF adapt is 0.550180.
+The FSIM of TF adapt is 0.550130.
+The FSIM of TF adapt is 0.550069.
+The FSIM of TF adapt is 0.549987.
+The FSIM of TF adapt is 0.549900.
+The FSIM of TF adapt is 0.549798.
+The FSIM of TF adapt is 0.549701.
+The FSIM of TF adapt is 0.549605.
+The FSIM of TF adapt is 0.549501.
+The FSIM of TF adapt is 0.549399.
+The FSIM of TF adapt is 0.549298.
+The FSIM of TF adapt is 0.549191.
+The FSIM of TF adapt is 0.549070.
+The FSIM of TF adapt is 0.548953.
+The FSIM of TF adapt is 0.548842.
+The FSIM of TF adapt is 0.548745.
+The FSIM of TF adapt is 0.548644.
+The FSIM of TF adapt is 0.548546.
+The FSIM of TF adapt is 0.548452.
+The FSIM of TF adapt is 0.548358.
+The FSIM of TF adapt is 0.548263.
+The FSIM of TF adapt is 0.548159.
+The FSIM of TF adapt is 0.548064.
+The FSIM of TF adapt is 0.547972.
+The FSIM of TF adapt is 0.547880.
+The FSIM of TF adapt is 0.547794.
+The FSIM of TF adapt is 0.547703.
+The FSIM of TF adapt is 0.547613.
+The FSIM of TF adapt is 0.547525.
+The FSIM of TF adapt is 0.547436.
+The FSIM of TF adapt is 0.547346.
+The FSIM of TF adapt is 0.547252.
+The FSIM of TF adapt is 0.547163.
+The FSIM of TF adapt is 0.547082.
+The FSIM of TF adapt is 0.547001.
+The FSIM of TF adapt is 0.546919.
+The FSIM of TF adapt is 0.546839.
+The FSIM of TF adapt is 0.546759.
+The FSIM of TF adapt is 0.546677.
+The FSIM of TF adapt is 0.546593.
+The FSIM of TF adapt is 0.546513.
+The FSIM of TF adapt is 0.546434.
+The FSIM of TF adapt is 0.546357.
+The FSIM of TF adapt is 0.546280.
+The FSIM of TF adapt is 0.546198.
+The FSIM of TF adapt is 0.546114.
+The FSIM of TF adapt is 0.546026.
+The FSIM of TF adapt is 0.545937.
+The FSIM of TF adapt is 0.545858.
+The FSIM of TF adapt is 0.545778.
+The FSIM of TF adapt is 0.545695.
+The FSIM of TF adapt is 0.545612.
+The FSIM of TF adapt is 0.545534.
+The RE of TV adapt is 0.060005.
+The error of number 35 slice is 0.000000.
+
+ n=   69, projection NO:   600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SNR=4.000000
+The RE of TF adapt is 0.064189.
+The PSNR of TF adapt is 76.444473.
+The PSNR of TF adapt is 80.750934.
+The PSNR of TF adapt is 82.627630.
+The PSNR of TF adapt is 82.958284.
+The PSNR of TF adapt is 82.998989.
+The PSNR of TF adapt is 83.239166.
+The PSNR of TF adapt is 83.514009.
+The PSNR of TF adapt is 83.701705 .
+The PSNR of TF adapt is 83.544454.
+The PSNR of TF adapt is 83.757243.
+The PSNR of TF adapt is 83.794527.
+The PSNR of TF adapt is 83.765225.
+The PSNR of TF adapt is 83.770400.
+The PSNR of TF adapt is 83.769004.
+The PSNR of TF adapt is 83.769102.
+The PSNR of TF adapt is 83.772702.
+The PSNR of TF adapt is 83.787221.
+The PSNR of TF adapt is 83.802094.
+The PSNR of TF adapt is 83.813873.
+The PSNR of TF adapt is 83.764122.
+The PSNR of TF adapt is 83.731011.
+The PSNR of TF adapt is 83.717559.
+The PSNR of TF adapt is 83.722599.
+The PSNR of TF adapt is 83.741413.
+The PSNR of TF adapt is 83.770515.
+The PSNR of TF adapt is 83.807028.
+The PSNR of TF adapt is 83.847177.
+The PSNR of TF adapt is 83.887683.
+The PSNR of TF adapt is 83.925256.
+The PSNR of TF adapt is 83.960538.
+The PSNR of TF adapt is 83.992043.
+The PSNR of TF adapt is 84.020207.
+The PSNR of TF adapt is 84.044075.
+The PSNR of TF adapt is 84.063891.
+The PSNR of TF adapt is 84.081712.
+The PSNR of TF adapt is 84.097413.
+The PSNR of TF adapt is 84.110293.
+The PSNR of TF adapt is 84.121143.
+The PSNR of TF adapt is 84.128652.
+The PSNR of TF adapt is 84.133372.
+The PSNR of TF adapt is 84.137142.
+The PSNR of TF adapt is 84.139865.
+The PSNR of TF adapt is 84.142856.
+The PSNR of TF adapt is 84.143406.
+The PSNR of TF adapt is 84.142937.
+The PSNR of TF adapt is 84.142217.
+The PSNR of TF adapt is 84.141542.
+The PSNR of TF adapt is 84.141305.
+The PSNR of TF adapt is 84.140138.
+The PSNR of TF adapt is 84.140026.
+The SSIM of TF adapt is 0.638702.
+The SSIM of TF adapt is 0.736327.
+The SSIM of TF adapt is 0.781412.
+The SSIM of TF adapt is 0.792028.
+The SSIM of TF adapt is 0.797721.
+The SSIM of TF adapt is 0.788072.
+The SSIM of TF adapt is 0.800137.
+The SSIM of TF adapt is 0.797730.
+The SSIM of TF adapt is 0.802414.
+The SSIM of TF adapt is 0.802333.
+The SSIM of TF adapt is 0.803808.
+The SSIM of TF adapt is 0.804760.
+The SSIM of TF adapt is 0.805347.
+The SSIM of TF adapt is 0.805852.
+The SSIM of TF adapt is 0.806379.
+The SSIM of TF adapt is 0.806980.
+The SSIM of TF adapt is 0.807840.
+The SSIM of TF adapt is 0.808921.
+The SSIM of TF adapt is 0.809952.
+The SSIM of TF adapt is 0.810698.
+The SSIM of TF adapt is 0.811246.
+The SSIM of TF adapt is 0.811772.
+The SSIM of TF adapt is 0.812418.
+The SSIM of TF adapt is 0.813163.
+The SSIM of TF adapt is 0.813984.
+The SSIM of TF adapt is 0.814801.
+The SSIM of TF adapt is 0.815583.
+The SSIM of TF adapt is 0.816336.
+The SSIM of TF adapt is 0.816970.
+The SSIM of TF adapt is 0.817518.
+The SSIM of TF adapt is 0.817971.
+The SSIM of TF adapt is 0.818376.
+The SSIM of TF adapt is 0.818686.
+The SSIM of TF adapt is 0.818942.
+The SSIM of TF adapt is 0.819175.
+The SSIM of TF adapt is 0.819356.
+The SSIM of TF adapt is 0.819515.
+The SSIM of TF adapt is 0.819643.
+The SSIM of TF adapt is 0.819713.
+The SSIM of TF adapt is 0.819731.
+The SSIM of TF adapt is 0.819743.
+The SSIM of TF adapt is 0.819750.
+The SSIM of TF adapt is 0.819744.
+The SSIM of TF adapt is 0.819710.
+The SSIM of TF adapt is 0.819662.
+The SSIM of TF adapt is 0.819615.
+The SSIM of TF adapt is 0.819572.
+The SSIM of TF adapt is 0.819534.
+The SSIM of TF adapt is 0.819492.
+The SSIM of TF adapt is 0.819462.
+The FSIM of TF adapt is 0.469242.
+The FSIM of TF adapt is 0.517345.
+The FSIM of TF adapt is 0.537958.
+The FSIM of TF adapt is 0.542860.
+The FSIM of TF adapt is 0.545358.
+The FSIM of TF adapt is 0.542391.
+The FSIM of TF adapt is 0.548246.
+The FSIM of TF adapt is 0.547701.
+The FSIM of TF adapt is 0.549583.
+The FSIM of TF adapt is 0.549991.
+The FSIM of TF adapt is 0.550794.
+The FSIM of TF adapt is 0.551161.
+The FSIM of TF adapt is 0.551381.
+The FSIM of TF adapt is 0.551502.
+The FSIM of TF adapt is 0.551607.
+The FSIM of TF adapt is 0.551729.
+The FSIM of TF adapt is 0.551888.
+The FSIM of TF adapt is 0.552146.
+The FSIM of TF adapt is 0.552526.
+The FSIM of TF adapt is 0.552508.
+The FSIM of TF adapt is 0.552623.
+The FSIM of TF adapt is 0.552774.
+The FSIM of TF adapt is 0.553117.
+The FSIM of TF adapt is 0.553551.
+The FSIM of TF adapt is 0.553972.
+The FSIM of TF adapt is 0.554284.
+The FSIM of TF adapt is 0.554571.
+The FSIM of TF adapt is 0.554852.
+The FSIM of TF adapt is 0.555056.
+The FSIM of TF adapt is 0.555223.
+The FSIM of TF adapt is 0.555341.
+The FSIM of TF adapt is 0.555443.
+The FSIM of TF adapt is 0.555492.
+The FSIM of TF adapt is 0.555460.
+The FSIM of TF adapt is 0.555406.
+The FSIM of TF adapt is 0.555282.
+The FSIM of TF adapt is 0.555218.
+The FSIM of TF adapt is 0.555163.
+The FSIM of TF adapt is 0.555072.
+The FSIM of TF adapt is 0.554970.
+The FSIM of TF adapt is 0.554846.
+The FSIM of TF adapt is 0.554738.
+The FSIM of TF adapt is 0.554632.
+The FSIM of TF adapt is 0.554528.
+The FSIM of TF adapt is 0.554419.
+The FSIM of TF adapt is 0.554300.
+The FSIM of TF adapt is 0.554198.
+The FSIM of TF adapt is 0.554109.
+The FSIM of TF adapt is 0.554014.
+The FSIM of TF adapt is 0.553920.
+The error of number 35 slice is 0.163032.
+The error of number 35 slice is 0.092389.
+The error of number 35 slice is 0.075768.
+The error of number 35 slice is 0.074126.
+The error of number 35 slice is 0.075230.
+The error of number 35 slice is 0.069518.
+The error of number 35 slice is 0.068750.
+The error of number 35 slice is 0.066077.
+The error of number 35 slice is 0.068830.
+The error of number 35 slice is 0.066297.
+The error of number 35 slice is 0.066162.
+The error of number 35 slice is 0.066713.
+The error of number 35 slice is 0.066793.
+The error of number 35 slice is 0.066943.
+The error of number 35 slice is 0.067096.
+The error of number 35 slice is 0.067227.
+The error of number 35 slice is 0.067277.
+The error of number 35 slice is 0.067314.
+The error of number 35 slice is 0.067349.
+The error of number 35 slice is 0.068078.
+The error of number 35 slice is 0.068593.
+The error of number 35 slice is 0.068867.
+The error of number 35 slice is 0.068931.
+The error of number 35 slice is 0.068833.
+The error of number 35 slice is 0.068609.
+The error of number 35 slice is 0.068296.
+The error of number 35 slice is 0.067933.
+The error of number 35 slice is 0.067559.
+The error of number 35 slice is 0.067198.
+The error of number 35 slice is 0.066853.
+The error of number 35 slice is 0.066545.
+The error of number 35 slice is 0.066268.
+The error of number 35 slice is 0.066035.
+The error of number 35 slice is 0.065842.
+The error of number 35 slice is 0.065664.
+The error of number 35 slice is 0.065512.
+The error of number 35 slice is 0.065382.
+The error of number 35 slice is 0.065272.
+The error of number 35 slice is 0.065197.
+The error of number 35 slice is 0.065150.
+The error of number 35 slice is 0.065113.
+The error of number 35 slice is 0.065084.
+The error of number 35 slice is 0.065052.
+The error of number 35 slice is 0.065045.
+The error of number 35 slice is 0.065046.
+The error of number 35 slice is 0.065051.
+The error of number 35 slice is 0.065056.
+The error of number 35 slice is 0.065059.
+The error of number 35 slice is 0.065070.
+The error of number 35 slice is 0.065071.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of TF adapt is 0.065579.
+The PSNR of TF adapt is 76.465625.
+The PSNR of TF adapt is 80.805490.
+The PSNR of TF adapt is 82.698007.
+The PSNR of TF adapt is 83.054080.
+The PSNR of TF adapt is 83.138656.
+The PSNR of TF adapt is 83.330829.
+The PSNR of TF adapt is 83.675187.
+The PSNR of TF adapt is 83.858305.
+The PSNR of TF adapt is 83.754327.
+The PSNR of TF adapt is 83.975605.
+The PSNR of TF adapt is 84.040738.
+The PSNR of TF adapt is 84.061894.
+The PSNR of TF adapt is 84.067706.
+The PSNR of TF adapt is 84.072319.
+The PSNR of TF adapt is 84.071182.
+The PSNR of TF adapt is 84.065916.
+The PSNR of TF adapt is 84.063185.
+The PSNR of TF adapt is 84.061061.
+The PSNR of TF adapt is 84.000860.
+The PSNR of TF adapt is 83.979400.
+The SSIM of TF adapt is 0.639301.
+The SSIM of TF adapt is 0.736365.
+The SSIM of TF adapt is 0.780883.
+The SSIM of TF adapt is 0.791201.
+The SSIM of TF adapt is 0.796998.
+The SSIM of TF adapt is 0.787567.
+The SSIM of TF adapt is 0.800079.
+The SSIM of TF adapt is 0.798228.
+The SSIM of TF adapt is 0.803426.
+The SSIM of TF adapt is 0.804057.
+The SSIM of TF adapt is 0.806308.
+The SSIM of TF adapt is 0.807814.
+The SSIM of TF adapt is 0.809081.
+The SSIM of TF adapt is 0.810527.
+The SSIM of TF adapt is 0.811906.
+The SSIM of TF adapt is 0.812970.
+The SSIM of TF adapt is 0.813902.
+The SSIM of TF adapt is 0.814619.
+The SSIM of TF adapt is 0.814918.
+The SSIM of TF adapt is 0.815398.
+The FSIM of TF adapt is 0.468236.
+The FSIM of TF adapt is 0.514421.
+The FSIM of TF adapt is 0.534495.
+The FSIM of TF adapt is 0.539434.
+The FSIM of TF adapt is 0.541969.
+The FSIM of TF adapt is 0.538970.
+The FSIM of TF adapt is 0.544808.
+The FSIM of TF adapt is 0.544389.
+The FSIM of TF adapt is 0.546389.
+The FSIM of TF adapt is 0.546963.
+The FSIM of TF adapt is 0.547964.
+The FSIM of TF adapt is 0.548514.
+The FSIM of TF adapt is 0.549001.
+The FSIM of TF adapt is 0.549522.
+The FSIM of TF adapt is 0.550040.
+The FSIM of TF adapt is 0.550376.
+The FSIM of TF adapt is 0.550544.
+The FSIM of TF adapt is 0.550609.
+The FSIM of TF adapt is 0.550302.
+The FSIM of TF adapt is 0.550289.
+The error of number 35 slice is 0.162872.
+The error of number 35 slice is 0.091850.
+The error of number 35 slice is 0.075090.
+The error of number 35 slice is 0.073071.
+The error of number 35 slice is 0.073593.
+The error of number 35 slice is 0.068705.
+The error of number 35 slice is 0.067271.
+The error of number 35 slice is 0.064811.
+The error of number 35 slice is 0.067023.
+The error of number 35 slice is 0.064553.
+The error of number 35 slice is 0.064245.
+The error of number 35 slice is 0.064303.
+The error of number 35 slice is 0.064477.
+The error of number 35 slice is 0.064664.
+The error of number 35 slice is 0.064891.
+The error of number 35 slice is 0.065124.
+The error of number 35 slice is 0.065319.
+The error of number 35 slice is 0.065492.
+The error of number 35 slice is 0.066326.
+The error of number 35 slice is 0.066707.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  337, projection NO:   600
+
+ n=  221, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+The RE of TF adapt is 0.034705.
+The PSNR of TF adapt is 51.488882.
+The PSNR of TF adapt is 53.538704.
+The PSNR of TF adapt is 55.410849.
+The PSNR of TF adapt is 57.675082.
+The PSNR of TF adapt is 59.540897.
+The PSNR of TF adapt is 60.776531.
+The PSNR of TF adapt is 61.700470.
+The PSNR of TF adapt is 62.418880.
+The PSNR of TF adapt is 62.989682.
+The PSNR of TF adapt is 63.462365.
+The PSNR of TF adapt is 63.860436.
+The PSNR of TF adapt is 64.207175.
+The PSNR of TF adapt is 64.508908.
+The PSNR of TF adapt is 64.776783.
+The PSNR of TF adapt is 65.017244.
+The PSNR of TF adapt is 65.235820.
+The PSNR of TF adapt is 65.432492.
+The PSNR of TF adapt is 65.638702.
+The PSNR of TF adapt is 65.815031.
+The PSNR of TF adapt is 65.971242.
+The PSNR of TF adapt is 66.111170.
+The PSNR of TF adapt is 66.238294.
+The PSNR of TF adapt is 66.355103.
+The PSNR of TF adapt is 66.463423.
+The PSNR of TF adapt is 66.558228.
+The PSNR of TF adapt is 66.643936.
+The PSNR of TF adapt is 66.725050.
+The PSNR of TF adapt is 66.802620.
+The PSNR of TF adapt is 66.876484.
+The PSNR of TF adapt is 66.946711.
+The PSNR of TF adapt is 67.013711.
+The PSNR of TF adapt is 67.078460.
+The PSNR of TF adapt is 67.140083.
+The PSNR of TF adapt is 67.200515.
+The PSNR of TF adapt is 67.258206.
+The PSNR of TF adapt is 67.313714.
+The PSNR of TF adapt is 67.365603.
+The PSNR of TF adapt is 67.414757.
+The PSNR of TF adapt is 67.459080.
+The PSNR of TF adapt is 67.499123.
+The PSNR of TF adapt is 67.535306.
+The PSNR of TF adapt is 67.568931.
+The PSNR of TF adapt is 67.599671.
+The PSNR of TF adapt is 67.628001.
+The PSNR of TF adapt is 67.653726.
+The PSNR of TF adapt is 67.677773.
+The PSNR of TF adapt is 67.700458.
+The PSNR of TF adapt is 67.722165.
+The PSNR of TF adapt is 67.742229.
+The PSNR of TF adapt is 67.760746.
+The PSNR of TF adapt is 67.778290.
+The PSNR of TF adapt is 67.795070.
+The PSNR of TF adapt is 67.810365.
+The PSNR of TF adapt is 67.824998.
+The PSNR of TF adapt is 67.838036.
+The PSNR of TF adapt is 67.849972.
+The PSNR of TF adapt is 67.860431.
+The PSNR of TF adapt is 67.869885.
+The PSNR of TF adapt is 67.878960.
+The PSNR of TF adapt is 67.887003.
+The PSNR of TF adapt is 67.895166.
+The PSNR of TF adapt is 67.903105.
+The PSNR of TF adapt is 67.911154.
+The PSNR of TF adapt is 67.918182.
+The PSNR of TF adapt is 67.925036.
+The PSNR of TF adapt is 67.932076.
+The PSNR of TF adapt is 67.939272.
+The PSNR of TF adapt is 67.945601.
+The PSNR of TF adapt is 67.952108.
+The PSNR of TF adapt is 67.957974.
+The PSNR of TF adapt is 67.963459.
+The PSNR of TF adapt is 67.968283.
+The PSNR of TF adapt is 67.973077.
+The PSNR of TF adapt is 67.977408.
+The PSNR of TF adapt is 67.981517.
+The PSNR of TF adapt is 67.986142.
+The PSNR of TF adapt is 67.991286.
+The PSNR of TF adapt is 67.995615.
+The PSNR of TF adapt is 68.000513.
+The PSNR of TF adapt is 68.005486.
+The PSNR of TF adapt is 68.009512.
+The PSNR of TF adapt is 68.012983.
+The PSNR of TF adapt is 68.016102.
+The PSNR of TF adapt is 68.018496.
+The PSNR of TF adapt is 68.019684.
+The PSNR of TF adapt is 68.021299.
+The PSNR of TF adapt is 68.022407.
+The PSNR of TF adapt is 68.023842.
+The PSNR of TF adapt is 68.024964.
+The PSNR of TF adapt is 68.025183.
+The PSNR of TF adapt is 68.025816.
+The PSNR of TF adapt is 68.026611.
+The PSNR of TF adapt is 68.026307.
+The PSNR of TF adapt is 68.026126.
+The PSNR of TF adapt is 68.026208.
+The PSNR of TF adapt is 68.026068.
+The PSNR of TF adapt is 68.025654.
+The PSNR of TF adapt is 68.025696.
+The PSNR of TF adapt is 68.024965.
+The PSNR of TF adapt is 68.024462.
+The SSIM of TF adapt is 0.250663.
+The SSIM of TF adapt is 0.277844.
+The SSIM of TF adapt is 0.299260.
+The SSIM of TF adapt is 0.322663.
+The SSIM of TF adapt is 0.340065.
+The SSIM of TF adapt is 0.351519.
+The SSIM of TF adapt is 0.362239.
+The SSIM of TF adapt is 0.373415.
+The SSIM of TF adapt is 0.384067.
+The SSIM of TF adapt is 0.393963.
+The SSIM of TF adapt is 0.402896.
+The SSIM of TF adapt is 0.410936.
+The SSIM of TF adapt is 0.418023.
+The SSIM of TF adapt is 0.423894.
+The SSIM of TF adapt is 0.428925.
+The SSIM of TF adapt is 0.434058.
+The SSIM of TF adapt is 0.438152.
+The SSIM of TF adapt is 0.444580.
+The SSIM of TF adapt is 0.449005.
+The SSIM of TF adapt is 0.452458.
+The SSIM of TF adapt is 0.455188.
+The SSIM of TF adapt is 0.457514.
+The SSIM of TF adapt is 0.459561.
+The SSIM of TF adapt is 0.461451.
+The SSIM of TF adapt is 0.464089.
+The SSIM of TF adapt is 0.465873.
+The SSIM of TF adapt is 0.467211.
+The SSIM of TF adapt is 0.468146.
+The SSIM of TF adapt is 0.468742.
+The SSIM of TF adapt is 0.469152.
+The SSIM of TF adapt is 0.469432.
+The SSIM of TF adapt is 0.469693.
+The SSIM of TF adapt is 0.469955.
+The SSIM of TF adapt is 0.470323.
+The SSIM of TF adapt is 0.470721.
+The SSIM of TF adapt is 0.471253.
+The SSIM of TF adapt is 0.471754.
+The SSIM of TF adapt is 0.472228.
+The SSIM of TF adapt is 0.472609.
+The SSIM of TF adapt is 0.472877.
+The SSIM of TF adapt is 0.473005.
+The SSIM of TF adapt is 0.473099.
+The SSIM of TF adapt is 0.473148.
+The SSIM of TF adapt is 0.473143.
+The SSIM of TF adapt is 0.473073.
+The SSIM of TF adapt is 0.472970.
+The SSIM of TF adapt is 0.472864.
+The SSIM of TF adapt is 0.472715.
+The SSIM of TF adapt is 0.472585.
+The SSIM of TF adapt is 0.472449.
+The SSIM of TF adapt is 0.472271.
+The SSIM of TF adapt is 0.472063.
+The SSIM of TF adapt is 0.471836.
+The SSIM of TF adapt is 0.471665.
+The SSIM of TF adapt is 0.471476.
+The SSIM of TF adapt is 0.471303.
+The SSIM of TF adapt is 0.471149.
+The SSIM of TF adapt is 0.470991.
+The SSIM of TF adapt is 0.470839.
+The SSIM of TF adapt is 0.470628.
+The SSIM of TF adapt is 0.470412.
+The SSIM of TF adapt is 0.470221.
+The SSIM of TF adapt is 0.470057.
+The SSIM of TF adapt is 0.469873.
+The SSIM of TF adapt is 0.469723.
+The SSIM of TF adapt is 0.469620.
+The SSIM of TF adapt is 0.469508.
+The SSIM of TF adapt is 0.469428.
+The SSIM of TF adapt is 0.469361.
+The SSIM of TF adapt is 0.469331.
+The SSIM of TF adapt is 0.469320.
+The SSIM of TF adapt is 0.469314.
+The SSIM of TF adapt is 0.469317.
+The SSIM of TF adapt is 0.469284.
+The SSIM of TF adapt is 0.469212.
+The SSIM of TF adapt is 0.469103.
+The SSIM of TF adapt is 0.468986.
+The SSIM of TF adapt is 0.468856.
+The SSIM of TF adapt is 0.468819.
+The SSIM of TF adapt is 0.468812.
+The SSIM of TF adapt is 0.468744.
+The SSIM of TF adapt is 0.468657.
+The SSIM of TF adapt is 0.468545.
+The SSIM of TF adapt is 0.468430.
+The SSIM of TF adapt is 0.468313.
+The SSIM of TF adapt is 0.468238.
+The SSIM of TF adapt is 0.468149.
+The SSIM of TF adapt is 0.468058.
+The SSIM of TF adapt is 0.467964.
+The SSIM of TF adapt is 0.467853.
+The SSIM of TF adapt is 0.467750.
+The SSIM of TF adapt is 0.467666.
+The SSIM of TF adapt is 0.467559.
+The SSIM of TF adapt is 0.467503.
+The SSIM of TF adapt is 0.467461.
+The SSIM of TF adapt is 0.467420.
+The SSIM of TF adapt is 0.467383.
+The SSIM of TF adapt is 0.467372.
+The SSIM of TF adapt is 0.467340.
+The SSIM of TF adapt is 0.467319.
+The FSIM of TF adapt is 0.273511.
+The FSIM of TF adapt is 0.293625.
+The FSIM of TF adapt is 0.308849.
+The FSIM of TF adapt is 0.324284.
+The FSIM of TF adapt is 0.334233.
+The FSIM of TF adapt is 0.339941.
+The FSIM of TF adapt is 0.344121.
+The FSIM of TF adapt is 0.347444.
+The FSIM of TF adapt is 0.350188.
+The FSIM of TF adapt is 0.352500.
+The FSIM of TF adapt is 0.354450.
+The FSIM of TF adapt is 0.356121.
+The FSIM of TF adapt is 0.357547.
+The FSIM of TF adapt is 0.358733.
+The FSIM of TF adapt is 0.359720.
+The FSIM of TF adapt is 0.360581.
+The FSIM of TF adapt is 0.361287.
+The FSIM of TF adapt is 0.362040.
+The FSIM of TF adapt is 0.362622.
+The FSIM of TF adapt is 0.363088.
+The FSIM of TF adapt is 0.363460.
+The FSIM of TF adapt is 0.363796.
+The FSIM of TF adapt is 0.364057.
+The FSIM of TF adapt is 0.364283.
+The FSIM of TF adapt is 0.364381.
+The FSIM of TF adapt is 0.364453.
+The FSIM of TF adapt is 0.364555.
+The FSIM of TF adapt is 0.364632.
+The FSIM of TF adapt is 0.364670.
+The FSIM of TF adapt is 0.364683.
+The FSIM of TF adapt is 0.364680.
+The FSIM of TF adapt is 0.364678.
+The FSIM of TF adapt is 0.364665.
+The FSIM of TF adapt is 0.364680.
+The FSIM of TF adapt is 0.364678.
+The FSIM of TF adapt is 0.364690.
+The FSIM of TF adapt is 0.364661.
+The FSIM of TF adapt is 0.364633.
+The FSIM of TF adapt is 0.364585.
+The FSIM of TF adapt is 0.364508.
+The FSIM of TF adapt is 0.364431.
+The FSIM of TF adapt is 0.364330.
+The FSIM of TF adapt is 0.364236.
+The FSIM of TF adapt is 0.364125.
+The FSIM of TF adapt is 0.364023.
+The FSIM of TF adapt is 0.363924.
+The FSIM of TF adapt is 0.363824.
+The FSIM of TF adapt is 0.363719.
+The FSIM of TF adapt is 0.363608.
+The FSIM of TF adapt is 0.363491.
+The FSIM of TF adapt is 0.363404.
+The FSIM of TF adapt is 0.363319.
+The FSIM of TF adapt is 0.363223.
+The FSIM of TF adapt is 0.363117.
+The FSIM of TF adapt is 0.363013.
+The FSIM of TF adapt is 0.362914.
+The FSIM of TF adapt is 0.362813.
+The FSIM of TF adapt is 0.362716.
+The FSIM of TF adapt is 0.362617.
+The FSIM of TF adapt is 0.362504.
+The FSIM of TF adapt is 0.362405.
+The FSIM of TF adapt is 0.362324.
+The FSIM of TF adapt is 0.362235.
+The FSIM of TF adapt is 0.362154.
+The FSIM of TF adapt is 0.362087.
+The FSIM of TF adapt is 0.361998.
+The FSIM of TF adapt is 0.361908.
+The FSIM of TF adapt is 0.361827.
+The FSIM of TF adapt is 0.361759.
+The FSIM of TF adapt is 0.361677.
+The FSIM of TF adapt is 0.361614.
+The FSIM of TF adapt is 0.361526.
+The FSIM of TF adapt is 0.361456.
+The FSIM of TF adapt is 0.361389.
+The FSIM of TF adapt is 0.361336.
+The FSIM of TF adapt is 0.361283.
+The FSIM of TF adapt is 0.361236.
+The FSIM of TF adapt is 0.361188.
+The FSIM of TF adapt is 0.361179.
+The FSIM of TF adapt is 0.361176.
+The FSIM of TF adapt is 0.361169.
+The FSIM of TF adapt is 0.361160.
+The FSIM of TF adapt is 0.361144.
+The FSIM of TF adapt is 0.361118.
+The FSIM of TF adapt is 0.361082.
+The FSIM of TF adapt is 0.361071.
+The FSIM of TF adapt is 0.361056.
+The FSIM of TF adapt is 0.361037.
+The FSIM of TF adapt is 0.361010.
+The FSIM of TF adapt is 0.360980.
+The FSIM of TF adapt is 0.360946.
+The FSIM of TF adapt is 0.360919.
+The FSIM of TF adapt is 0.360891.
+The FSIM of TF adapt is 0.360872.
+The FSIM of TF adapt is 0.360864.
+The FSIM of TF adapt is 0.360845.
+The FSIM of TF adapt is 0.360824.
+The FSIM of TF adapt is 0.360814.
+The FSIM of TF adapt is 0.360809.
+The FSIM of TF adapt is 0.360801.
+The error of number 35 slice is 0.224121.
+The error of number 35 slice is 0.180455.
+The error of number 35 slice is 0.147656.
+The error of number 35 slice is 0.117157.
+The error of number 35 slice is 0.095948.
+The error of number 35 slice is 0.082763.
+The error of number 35 slice is 0.074165.
+The error of number 35 slice is 0.068216.
+The error of number 35 slice is 0.063849.
+The error of number 35 slice is 0.060442.
+The error of number 35 slice is 0.057685.
+The error of number 35 slice is 0.055354.
+The error of number 35 slice is 0.053378.
+The error of number 35 slice is 0.051643.
+The error of number 35 slice is 0.050113.
+The error of number 35 slice is 0.048786.
+The error of number 35 slice is 0.047607.
+The error of number 35 slice is 0.046581.
+The error of number 35 slice is 0.045693.
+The error of number 35 slice is 0.044901.
+The error of number 35 slice is 0.044189.
+The error of number 35 slice is 0.043540.
+The error of number 35 slice is 0.042942.
+The error of number 35 slice is 0.042385.
+The error of number 35 slice is 0.042020.
+The error of number 35 slice is 0.041666.
+The error of number 35 slice is 0.041308.
+The error of number 35 slice is 0.040945.
+The error of number 35 slice is 0.040587.
+The error of number 35 slice is 0.040238.
+The error of number 35 slice is 0.039896.
+The error of number 35 slice is 0.039563.
+The error of number 35 slice is 0.039247.
+The error of number 35 slice is 0.038940.
+The error of number 35 slice is 0.038648.
+The error of number 35 slice is 0.038378.
+The error of number 35 slice is 0.038132.
+The error of number 35 slice is 0.037903.
+The error of number 35 slice is 0.037702.
+The error of number 35 slice is 0.037526.
+The error of number 35 slice is 0.037373.
+The error of number 35 slice is 0.037238.
+The error of number 35 slice is 0.037119.
+The error of number 35 slice is 0.037010.
+The error of number 35 slice is 0.036911.
+The error of number 35 slice is 0.036817.
+The error of number 35 slice is 0.036728.
+The error of number 35 slice is 0.036640.
+The error of number 35 slice is 0.036560.
+The error of number 35 slice is 0.036486.
+The error of number 35 slice is 0.036413.
+The error of number 35 slice is 0.036340.
+The error of number 35 slice is 0.036274.
+The error of number 35 slice is 0.036211.
+The error of number 35 slice is 0.036156.
+The error of number 35 slice is 0.036105.
+The error of number 35 slice is 0.036062.
+The error of number 35 slice is 0.036020.
+The error of number 35 slice is 0.035979.
+The error of number 35 slice is 0.035942.
+The error of number 35 slice is 0.035902.
+The error of number 35 slice is 0.035861.
+The error of number 35 slice is 0.035818.
+The error of number 35 slice is 0.035779.
+The error of number 35 slice is 0.035740.
+The error of number 35 slice is 0.035701.
+The error of number 35 slice is 0.035660.
+The error of number 35 slice is 0.035624.
+The error of number 35 slice is 0.035586.
+The error of number 35 slice is 0.035554.
+The error of number 35 slice is 0.035525.
+The error of number 35 slice is 0.035500.
+The error of number 35 slice is 0.035476.
+The error of number 35 slice is 0.035452.
+The error of number 35 slice is 0.035430.
+The error of number 35 slice is 0.035406.
+The error of number 35 slice is 0.035379.
+The error of number 35 slice is 0.035358.
+The error of number 35 slice is 0.035334.
+The error of number 35 slice is 0.035307.
+The error of number 35 slice is 0.035286.
+The error of number 35 slice is 0.035265.
+The error of number 35 slice is 0.035247.
+The error of number 35 slice is 0.035234.
+The error of number 35 slice is 0.035230.
+The error of number 35 slice is 0.035221.
+The error of number 35 slice is 0.035215.
+The error of number 35 slice is 0.035206.
+The error of number 35 slice is 0.035198.
+The error of number 35 slice is 0.035197.
+The error of number 35 slice is 0.035192.
+The error of number 35 slice is 0.035184.
+The error of number 35 slice is 0.035183.
+The error of number 35 slice is 0.035182.
+The error of number 35 slice is 0.035178.
+The error of number 35 slice is 0.035177.
+The error of number 35 slice is 0.035177.
+The error of number 35 slice is 0.035173.
+The error of number 35 slice is 0.035172.
+The error of number 35 slice is 0.035169.
+The RE of TV adapt is 0.041944.
+The error of number 35 slice is 0.000000.
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000

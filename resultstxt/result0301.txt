@@ -1,0 +1,3340 @@
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=  133, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+
+ n=    7, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.713475.
+The RE of tikfix reconstruction is 0.116394.
+The RE of Tikadapt: 0.120086   
+
+ n=    3, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.386114.
+The RE of tikfix reconstruction is 0.111586.
+The RE of Tikadapt: 0.308721   
+
+ n=   11, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.754857.
+The RE of tikfix reconstruction is 0.134195.
+The RE of Tikadapt: 0.131777   
+
+ n=   11, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   11, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.783205.
+The RE of tikfix reconstruction is 0.132291.
+The RE of Tikadapt: 0.129925   
+The PSNR of TF adapt is 140.349325.
+The PSNR of TF adapt is 141.795728.
+The PSNR of TF adapt is 142.171925.
+The PSNR of TF adapt is 142.412418.
+The PSNR of TF adapt is 142.503636.
+The PSNR of TF adapt is 142.250648.
+The PSNR of TF adapt is 142.227218.
+The PSNR of TF adapt is 142.155339.
+The PSNR of TF adapt is 141.963434.
+The PSNR of TF adapt is 141.916523.
+The PSNR of TF adapt is 141.717926.
+The PSNR of TF adapt is 141.741739.
+The PSNR of TF adapt is 141.589824.
+The PSNR of TF adapt is 141.435930.
+The PSNR of TF adapt is 141.545205.
+The PSNR of TF adapt is 141.438359.
+The PSNR of TF adapt is 141.331391.
+The PSNR of TF adapt is 141.448805.
+The PSNR of TF adapt is 141.352098.
+The PSNR of TF adapt is 141.249992.
+The PSNR of TF adapt is 141.378566.
+The PSNR of TF adapt is 141.288421.
+The PSNR of TF adapt is 141.194602.
+The PSNR of TF adapt is 141.325899.
+The PSNR of TF adapt is 141.239967.
+The PSNR of TF adapt is 141.149944.
+The PSNR of TF adapt is 141.283312.
+The PSNR of TF adapt is 141.199675.
+The PSNR of TF adapt is 141.113033.
+The PSNR of TF adapt is 141.246855.
+The PSNR of TF adapt is 141.165196.
+The PSNR of TF adapt is 141.080932.
+The PSNR of TF adapt is 140.987082.
+The PSNR of TF adapt is 140.861812.
+The PSNR of TF adapt is 141.068986.
+The PSNR of TF adapt is 141.024357.
+The PSNR of TF adapt is 140.972058.
+The PSNR of TF adapt is 140.897034.
+The PSNR of TF adapt is 140.781417.
+The PSNR of TF adapt is 140.712265.
+The PSNR of TF adapt is 140.621666.
+The PSNR of TF adapt is 140.881456.
+The PSNR of TF adapt is 140.868151.
+The PSNR of TF adapt is 140.839026.
+The PSNR of TF adapt is 140.778673.
+The PSNR of TF adapt is 140.674796.
+The PSNR of TF adapt is 140.613881.
+The PSNR of TF adapt is 140.531491.
+The PSNR of TF adapt is 140.491198.
+The PSNR of TF adapt is 140.405309.
+The PSNR of TF adapt is 140.660923.
+The PSNR of TF adapt is 140.684071.
+The PSNR of TF adapt is 140.681582.
+The PSNR of TF adapt is 140.639222.
+The PSNR of TF adapt is 140.548537.
+The PSNR of TF adapt is 140.800127.
+The PSNR of TF adapt is 140.789173.
+The PSNR of TF adapt is 140.762044.
+The PSNR of TF adapt is 140.702095.
+The PSNR of TF adapt is 140.599679.
+The PSNR of TF adapt is 140.837242.
+The PSNR of TF adapt is 140.815853.
+The PSNR of TF adapt is 140.781397.
+The PSNR of TF adapt is 140.715717.
+The PSNR of TF adapt is 140.610109.
+The PSNR of TF adapt is 140.546805.
+The PSNR of TF adapt is 140.463693.
+The PSNR of TF adapt is 140.419092.
+The PSNR of TF adapt is 140.328100.
+The PSNR of TF adapt is 140.583626.
+The PSNR of TF adapt is 140.603865.
+The PSNR of TF adapt is 140.604317.
+The PSNR of TF adapt is 140.563270.
+The PSNR of TF adapt is 140.474639.
+The PSNR of TF adapt is 140.723037.
+The PSNR of TF adapt is 140.716011.
+The PSNR of TF adapt is 140.691772.
+The PSNR of TF adapt is 140.633339.
+The PSNR of TF adapt is 140.533028.
+The PSNR of TF adapt is 140.770928.
+The PSNR of TF adapt is 140.751770.
+The PSNR of TF adapt is 140.719106.
+The PSNR of TF adapt is 140.654502.
+The PSNR of TF adapt is 140.550664.
+The PSNR of TF adapt is 140.488413.
+The PSNR of TF adapt is 140.406727.
+The PSNR of TF adapt is 140.668360.
+The PSNR of TF adapt is 140.667998.
+The PSNR of TF adapt is 140.648778.
+The PSNR of TF adapt is 140.593632.
+The PSNR of TF adapt is 140.496757.
+The PSNR of TF adapt is 140.439736.
+The PSNR of TF adapt is 140.362217.
+The PSNR of TF adapt is 140.627094.
+The PSNR of TF adapt is 140.631118.
+The PSNR of TF adapt is 140.615285.
+The PSNR of TF adapt is 140.563015.
+The PSNR of TF adapt is 140.468302.
+The PSNR of TF adapt is 140.413181.
+The PSNR of TF adapt is 140.336987.
+The error of number 35 slice is 0.118618.
+The error of number 35 slice is 0.095161.
+The error of number 35 slice is 0.091601.
+The error of number 35 slice is 0.089077.
+The error of number 35 slice is 0.088069.
+The error of number 35 slice is 0.091323.
+The error of number 35 slice is 0.091975.
+The error of number 35 slice is 0.093165.
+The error of number 35 slice is 0.095905.
+The error of number 35 slice is 0.096497.
+The error of number 35 slice is 0.099282.
+The error of number 35 slice is 0.098908.
+The error of number 35 slice is 0.101162.
+The error of number 35 slice is 0.103224.
+The error of number 35 slice is 0.101684.
+The error of number 35 slice is 0.103308.
+The error of number 35 slice is 0.104748.
+The error of number 35 slice is 0.103006.
+The error of number 35 slice is 0.104510.
+The error of number 35 slice is 0.105859.
+The error of number 35 slice is 0.103964.
+The error of number 35 slice is 0.105372.
+The error of number 35 slice is 0.106619.
+The error of number 35 slice is 0.104669.
+The error of number 35 slice is 0.106028.
+The error of number 35 slice is 0.107215.
+The error of number 35 slice is 0.105239.
+The error of number 35 slice is 0.106567.
+The error of number 35 slice is 0.107713.
+The error of number 35 slice is 0.105723.
+The error of number 35 slice is 0.107029.
+The error of number 35 slice is 0.108143.
+The error of number 35 slice is 0.109646.
+The error of number 35 slice is 0.111393.
+The error of number 35 slice is 0.108300.
+The error of number 35 slice is 0.109065.
+The error of number 35 slice is 0.109700.
+The error of number 35 slice is 0.110929.
+The error of number 35 slice is 0.112527.
+The error of number 35 slice is 0.113808.
+The error of number 35 slice is 0.115010.
+The error of number 35 slice is 0.110999.
+The error of number 35 slice is 0.111293.
+The error of number 35 slice is 0.111576.
+The error of number 35 slice is 0.112604.
+The error of number 35 slice is 0.114041.
+The error of number 35 slice is 0.115215.
+The error of number 35 slice is 0.116299.
+The error of number 35 slice is 0.117161.
+The error of number 35 slice is 0.118257.
+The error of number 35 slice is 0.114163.
+The error of number 35 slice is 0.113904.
+The error of number 35 slice is 0.113784.
+The error of number 35 slice is 0.114569.
+The error of number 35 slice is 0.115828.
+The error of number 35 slice is 0.111954.
+The error of number 35 slice is 0.112250.
+The error of number 35 slice is 0.112529.
+The error of number 35 slice is 0.113585.
+The error of number 35 slice is 0.115022.
+The error of number 35 slice is 0.111396.
+The error of number 35 slice is 0.111845.
+The error of number 35 slice is 0.112233.
+The error of number 35 slice is 0.113371.
+The error of number 35 slice is 0.114854.
+The error of number 35 slice is 0.116091.
+The error of number 35 slice is 0.117193.
+The error of number 35 slice is 0.118142.
+The error of number 35 slice is 0.119316.
+The error of number 35 slice is 0.115197.
+The error of number 35 slice is 0.114977.
+The error of number 35 slice is 0.114812.
+The error of number 35 slice is 0.115590.
+The error of number 35 slice is 0.116830.
+The error of number 35 slice is 0.112969.
+The error of number 35 slice is 0.113210.
+The error of number 35 slice is 0.113450.
+The error of number 35 slice is 0.114496.
+The error of number 35 slice is 0.115914.
+The error of number 35 slice is 0.112254.
+The error of number 35 slice is 0.112674.
+The error of number 35 slice is 0.113040.
+The error of number 35 slice is 0.114171.
+The error of number 35 slice is 0.115641.
+The error of number 35 slice is 0.116869.
+The error of number 35 slice is 0.117959.
+The error of number 35 slice is 0.113819.
+The error of number 35 slice is 0.113931.
+The error of number 35 slice is 0.114076.
+The error of number 35 slice is 0.115063.
+The error of number 35 slice is 0.116430.
+The error of number 35 slice is 0.117577.
+The error of number 35 slice is 0.118606.
+The error of number 35 slice is 0.114392.
+The error of number 35 slice is 0.114437.
+The error of number 35 slice is 0.114531.
+The error of number 35 slice is 0.115478.
+The error of number 35 slice is 0.116819.
+The error of number 35 slice is 0.117938.
+The error of number 35 slice is 0.118952.
+The RE of TV adapt is 0.117159.
+The error of number 35 slice is 0.118460.
+The error of number 35 slice is 0.108754.
+The error of number 35 slice is 0.122376.
+The error of number 35 slice is 0.133699.
+The error of number 35 slice is 0.129826.
+The error of number 35 slice is 0.127962.
+The error of number 35 slice is 0.130847.
+The error of number 35 slice is 0.125611.
+The error of number 35 slice is 0.122653.
+The error of number 35 slice is 0.123059.
+The error of number 35 slice is 0.120791.
+The error of number 35 slice is 0.121620.
+
+ n=  133, projection NO:   600
+
+ n=   11, projection NO:   600
+
+
+ SNR=4.000000
+The RE of firm reconstruction is 0.726760.
+The RE of tikfix reconstruction is 0.127898.
+The RE of Tikadapt: 0.133757   
+The PSNR of TF adapt is 140.413955.
+The PSNR of TF adapt is 141.857622.
+The PSNR of TF adapt is 142.086254.
+The PSNR of TF adapt is 141.950384.
+The PSNR of TF adapt is 142.177532.
+The PSNR of TF adapt is 141.927386.
+The PSNR of TF adapt is 141.951047.
+The PSNR of TF adapt is 141.938329.
+The PSNR of TF adapt is 141.801331.
+The PSNR of TF adapt is 141.617624.
+The PSNR of TF adapt is 141.414452.
+The PSNR of TF adapt is 141.230992.
+The PSNR of TF adapt is 141.078430.
+The PSNR of TF adapt is 140.957174.
+The PSNR of TF adapt is 140.853459.
+The PSNR of TF adapt is 140.769005.
+The PSNR of TF adapt is 140.695433.
+The PSNR of TF adapt is 140.634074.
+The PSNR of TF adapt is 140.579390.
+The PSNR of TF adapt is 140.533282.
+The PSNR of TF adapt is 140.486741.
+The PSNR of TF adapt is 140.438470.
+The PSNR of TF adapt is 140.382611.
+The PSNR of TF adapt is 140.335456.
+The PSNR of TF adapt is 140.289658.
+The PSNR of TF adapt is 140.247387.
+The PSNR of TF adapt is 140.189055.
+The PSNR of TF adapt is 140.132683.
+The PSNR of TF adapt is 140.085415.
+The PSNR of TF adapt is 140.049130.
+The PSNR of TF adapt is 140.017544.
+The PSNR of TF adapt is 139.993186.
+The PSNR of TF adapt is 139.970425.
+The PSNR of TF adapt is 139.953372.
+The PSNR of TF adapt is 139.936096.
+The PSNR of TF adapt is 139.923732.
+The PSNR of TF adapt is 139.910015.
+The PSNR of TF adapt is 139.900815.
+The PSNR of TF adapt is 139.889591.
+The PSNR of TF adapt is 139.882618.
+The PSNR of TF adapt is 139.872428.
+The PSNR of TF adapt is 139.867129.
+The PSNR of TF adapt is 139.858269.
+The PSNR of TF adapt is 139.854407.
+The PSNR of TF adapt is 139.846526.
+The PSNR of TF adapt is 139.843662.
+The PSNR of TF adapt is 140.357907.
+The PSNR of TF adapt is 139.942991.
+The PSNR of TF adapt is 140.202198.
+The PSNR of TF adapt is 140.308172.
+The PSNR of TF adapt is 140.663943.
+The PSNR of TF adapt is 140.282832.
+The PSNR of TF adapt is 139.817370.
+The PSNR of TF adapt is 140.108203.
+The PSNR of TF adapt is 140.197311.
+The PSNR of TF adapt is 140.573002.
+The PSNR of TF adapt is 140.187280.
+The PSNR of TF adapt is 139.728389.
+The PSNR of TF adapt is 140.050950.
+The PSNR of TF adapt is 140.159177.
+The PSNR of TF adapt is 140.544633.
+The PSNR of TF adapt is 140.152990.
+The PSNR of TF adapt is 139.698329.
+The PSNR of TF adapt is 140.027647.
+The PSNR of TF adapt is 140.142062.
+The PSNR of TF adapt is 140.530339.
+The PSNR of TF adapt is 140.139912.
+The PSNR of TF adapt is 139.686538.
+The PSNR of TF adapt is 140.016570.
+The PSNR of TF adapt is 140.129805.
+The PSNR of TF adapt is 140.519990.
+The PSNR of TF adapt is 140.130256.
+The PSNR of TF adapt is 139.677807.
+The PSNR of TF adapt is 140.008565.
+The PSNR of TF adapt is 140.123566.
+The PSNR of TF adapt is 140.513122.
+The PSNR of TF adapt is 140.124041.
+The PSNR of TF adapt is 139.672189.
+The PSNR of TF adapt is 140.002456.
+The PSNR of TF adapt is 140.116616.
+The PSNR of TF adapt is 140.506716.
+The PSNR of TF adapt is 140.114646.
+The PSNR of TF adapt is 139.663831.
+The PSNR of TF adapt is 139.995588.
+The PSNR of TF adapt is 140.110757.
+The PSNR of TF adapt is 140.500503.
+The PSNR of TF adapt is 140.105416.
+The PSNR of TF adapt is 139.656168.
+The PSNR of TF adapt is 139.988713.
+The PSNR of TF adapt is 140.104208.
+The PSNR of TF adapt is 140.494078.
+The PSNR of TF adapt is 140.095738.
+The PSNR of TF adapt is 139.647648.
+The PSNR of TF adapt is 139.981227.
+The PSNR of TF adapt is 140.097380.
+The PSNR of TF adapt is 140.487379.
+The PSNR of TF adapt is 140.089639.
+The PSNR of TF adapt is 139.642173.
+The PSNR of TF adapt is 139.975539.
+The PSNR of TF adapt is 140.091675.
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 0.584927.
+The RE of Tikadapt: 0.156970   
+The PSNR of TF adapt is 7.931557.
+The PSNR of TF adapt is 10.360931.
+The PSNR of TF adapt is 10.532652.
+The PSNR of TF adapt is 10.606993.
+The PSNR of TF adapt is 10.645048.
+The PSNR of TF adapt is 10.665041.
+The PSNR of TF adapt is 10.676740.
+The PSNR of TF adapt is 10.682448.
+The PSNR of TF adapt is 10.685336.
+The PSNR of TF adapt is 10.686912.
+The PSNR of TF adapt is 10.687511.
+The PSNR of TF adapt is 10.687686.
+The PSNR of TF adapt is 10.687604.
+The PSNR of TF adapt is 10.687410.
+The PSNR of TF adapt is 10.687157.
+The PSNR of TF adapt is 10.686882.
+The PSNR of TF adapt is 10.686591.
+The PSNR of TF adapt is 10.686217.
+The PSNR of TF adapt is 10.685891.
+The PSNR of TF adapt is 10.685569.
+The PSNR of TF adapt is 10.685248.
+The PSNR of TF adapt is 10.684926.
+The PSNR of TF adapt is 10.684647.
+The PSNR of TF adapt is 10.684331.
+The PSNR of TF adapt is 10.684008.
+The PSNR of TF adapt is 10.683683.
+The PSNR of TF adapt is 10.683356.
+The PSNR of TF adapt is 10.683028.
+The PSNR of TF adapt is 10.682699.
+The PSNR of TF adapt is 10.682371.
+The PSNR of TF adapt is 10.682044.
+The PSNR of TF adapt is 10.681718.
+The PSNR of TF adapt is 10.681393.
+The PSNR of TF adapt is 10.681071.
+The PSNR of TF adapt is 10.680750.
+The PSNR of TF adapt is 10.680432.
+The PSNR of TF adapt is 10.680116.
+The PSNR of TF adapt is 10.679804.
+The PSNR of TF adapt is 10.679494.
+The PSNR of TF adapt is 10.679187.
+The PSNR of TF adapt is 10.678884.
+The PSNR of TF adapt is 10.678583.
+The PSNR of TF adapt is 10.678287.
+The PSNR of TF adapt is 10.677994.
+The PSNR of TF adapt is 10.677704.
+The PSNR of TF adapt is 10.677418.
+The PSNR of TF adapt is 10.677135.
+The PSNR of TF adapt is 10.676857.
+The PSNR of TF adapt is 10.676582.
+The PSNR of TF adapt is 10.676310.
+The PSNR of TF adapt is 10.676043.
+The PSNR of TF adapt is 10.675779.
+The PSNR of TF adapt is 10.675518.
+The PSNR of TF adapt is 10.675262.
+The PSNR of TF adapt is 10.675009.
+The PSNR of TF adapt is 10.674759.
+The PSNR of TF adapt is 10.674513.
+The PSNR of TF adapt is 10.674271.
+The PSNR of TF adapt is 10.674032.
+The PSNR of TF adapt is 10.673797.
+The PSNR of TF adapt is 10.673565.
+The PSNR of TF adapt is 10.673336.
+The PSNR of TF adapt is 10.673111.
+The PSNR of TF adapt is 10.672890.
+The PSNR of TF adapt is 10.672671.
+The PSNR of TF adapt is 10.672456.
+The PSNR of TF adapt is 10.672325.
+The PSNR of TF adapt is 10.672146.
+The PSNR of TF adapt is 10.671954.
+The PSNR of TF adapt is 10.671759.
+The PSNR of TF adapt is 10.671563.
+The PSNR of TF adapt is 10.671369.
+The PSNR of TF adapt is 10.671177.
+The PSNR of TF adapt is 10.670987.
+The PSNR of TF adapt is 10.670800.
+The PSNR of TF adapt is 10.670615.
+The PSNR of TF adapt is 10.670433.
+The PSNR of TF adapt is 10.670254.
+The PSNR of TF adapt is 10.670078.
+The PSNR of TF adapt is 10.669904.
+The PSNR of TF adapt is 10.669733.
+The PSNR of TF adapt is 10.669564.
+The PSNR of TF adapt is 10.669398.
+The PSNR of TF adapt is 10.669235.
+The PSNR of TF adapt is 10.669074.
+The PSNR of TF adapt is 10.668915.
+The PSNR of TF adapt is 10.668759.
+The PSNR of TF adapt is 10.668605.
+The PSNR of TF adapt is 10.668454.
+The PSNR of TF adapt is 10.668304.
+The PSNR of TF adapt is 10.668158.
+The PSNR of TF adapt is 10.668013.
+The PSNR of TF adapt is 10.667871.
+The PSNR of TF adapt is 10.667730.
+The PSNR of TF adapt is 10.667592.
+The PSNR of TF adapt is 10.667456.
+The PSNR of TF adapt is 10.667322.
+The PSNR of TF adapt is 10.667191.
+The PSNR of TF adapt is 10.667061.
+The PSNR of TF adapt is 10.666933.
+The error of number 35 slice is 0.149401.
+The error of number 35 slice is 0.112242.
+The error of number 35 slice is 0.109456.
+The error of number 35 slice is 0.108542.
+The error of number 35 slice is 0.108141.
+The error of number 35 slice is 0.107948.
+The error of number 35 slice is 0.107832.
+The error of number 35 slice is 0.107782.
+The error of number 35 slice is 0.107758.
+The error of number 35 slice is 0.107744.
+The error of number 35 slice is 0.107740.
+The error of number 35 slice is 0.107740.
+The error of number 35 slice is 0.107741.
+The error of number 35 slice is 0.107744.
+The error of number 35 slice is 0.107747.
+The error of number 35 slice is 0.107751.
+The error of number 35 slice is 0.107754.
+The error of number 35 slice is 0.107758.
+The error of number 35 slice is 0.107762.
+The error of number 35 slice is 0.107766.
+The error of number 35 slice is 0.107769.
+The error of number 35 slice is 0.107773.
+The error of number 35 slice is 0.107776.
+The error of number 35 slice is 0.107779.
+The error of number 35 slice is 0.107783.
+The error of number 35 slice is 0.107787.
+The error of number 35 slice is 0.107790.
+The error of number 35 slice is 0.107794.
+The error of number 35 slice is 0.107798.
+The error of number 35 slice is 0.107801.
+The error of number 35 slice is 0.107805.
+The error of number 35 slice is 0.107808.
+The error of number 35 slice is 0.107812.
+The error of number 35 slice is 0.107816.
+The error of number 35 slice is 0.107819.
+The error of number 35 slice is 0.107823.
+The error of number 35 slice is 0.107826.
+The error of number 35 slice is 0.107830.
+The error of number 35 slice is 0.107833.
+The error of number 35 slice is 0.107836.
+The error of number 35 slice is 0.107840.
+The error of number 35 slice is 0.107843.
+The error of number 35 slice is 0.107846.
+The error of number 35 slice is 0.107850.
+The error of number 35 slice is 0.107853.
+The error of number 35 slice is 0.107856.
+The error of number 35 slice is 0.107859.
+The error of number 35 slice is 0.107862.
+The error of number 35 slice is 0.107865.
+The error of number 35 slice is 0.107868.
+The error of number 35 slice is 0.107871.
+The error of number 35 slice is 0.107874.
+The error of number 35 slice is 0.107877.
+The error of number 35 slice is 0.107880.
+The error of number 35 slice is 0.107883.
+The error of number 35 slice is 0.107886.
+The error of number 35 slice is 0.107889.
+The error of number 35 slice is 0.107891.
+The error of number 35 slice is 0.107894.
+The error of number 35 slice is 0.107897.
+The error of number 35 slice is 0.107899.
+The error of number 35 slice is 0.107902.
+The error of number 35 slice is 0.107904.
+The error of number 35 slice is 0.107907.
+The error of number 35 slice is 0.107909.
+The error of number 35 slice is 0.107912.
+The error of number 35 slice is 0.107913.
+The error of number 35 slice is 0.107915.
+The error of number 35 slice is 0.107917.
+The error of number 35 slice is 0.107920.
+The error of number 35 slice is 0.107922.
+The error of number 35 slice is 0.107924.
+The error of number 35 slice is 0.107926.
+The error of number 35 slice is 0.107928.
+The error of number 35 slice is 0.107930.
+The error of number 35 slice is 0.107933.
+The error of number 35 slice is 0.107935.
+The error of number 35 slice is 0.107937.
+The error of number 35 slice is 0.107939.
+The error of number 35 slice is 0.107941.
+The error of number 35 slice is 0.107943.
+The error of number 35 slice is 0.107945.
+The error of number 35 slice is 0.107947.
+The error of number 35 slice is 0.107948.
+The error of number 35 slice is 0.107950.
+The error of number 35 slice is 0.107952.
+The error of number 35 slice is 0.107954.
+The error of number 35 slice is 0.107956.
+The error of number 35 slice is 0.107957.
+The error of number 35 slice is 0.107959.
+The error of number 35 slice is 0.107961.
+The error of number 35 slice is 0.107963.
+The error of number 35 slice is 0.107964.
+The error of number 35 slice is 0.107966.
+The error of number 35 slice is 0.107967.
+The error of number 35 slice is 0.107969.
+The error of number 35 slice is 0.107971.
+The error of number 35 slice is 0.107972.
+The error of number 35 slice is 0.107974.
+The error of number 35 slice is 0.107975.
+The RE of TV adapt is 0.065028.
+The error of number 35 slice is 0.154371.
+The error of number 35 slice is 0.125359.
+The error of number 35 slice is 0.095149.
+The error of number 35 slice is 0.078824.
+The error of number 35 slice is 0.073324.
+The error of number 35 slice is 0.070987.
+The error of number 35 slice is 0.069001.
+The error of number 35 slice is 0.071313.
+The error of number 35 slice is 0.067337.
+The error of number 35 slice is 0.065608.
+The error of number 35 slice is 0.065133.
+The error of number 35 slice is 0.065525.
+
+
+ SNR=2.000000
+The RE of tikfix reconstruction is 1.158171.
+
+ n=   51, projection NO:   600
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 0.588365.
+The RE of Tikadapt: 0.154715   
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   51, projection NO:   600
+
+
+ SNR=4.000000
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The PSNR of TF adapt is 124.641139.
+The PSNR of TF adapt is 124.723782.
+The PSNR of TF adapt is 124.705035.
+The PSNR of TF adapt is 124.699730.
+The PSNR of TF adapt is 124.697695.
+The PSNR of TF adapt is 124.696484.
+The PSNR of TF adapt is 124.695592.
+The PSNR of TF adapt is 124.694962.
+The PSNR of TF adapt is 124.694372.
+The PSNR of TF adapt is 124.693835.
+The PSNR of TF adapt is 124.693385.
+The PSNR of TF adapt is 124.693142.
+The PSNR of TF adapt is 124.692804.
+The PSNR of TF adapt is 124.692392.
+The PSNR of TF adapt is 124.692077.
+The PSNR of TF adapt is 124.691786.
+The PSNR of TF adapt is 124.691491.
+The PSNR of TF adapt is 124.691243.
+The PSNR of TF adapt is 124.691022.
+The PSNR of TF adapt is 124.690824.
+The PSNR of TF adapt is 124.690646.
+The PSNR of TF adapt is 124.690458.
+The PSNR of TF adapt is 124.690305.
+The PSNR of TF adapt is 124.690172.
+The PSNR of TF adapt is 124.690053.
+The PSNR of TF adapt is 124.689946.
+The PSNR of TF adapt is 124.689849.
+The PSNR of TF adapt is 124.689761.
+The PSNR of TF adapt is 124.689681.
+The PSNR of TF adapt is 124.689608.
+The PSNR of TF adapt is 124.689541.
+The PSNR of TF adapt is 124.689480.
+The PSNR of TF adapt is 124.689424.
+The PSNR of TF adapt is 124.689373.
+The PSNR of TF adapt is 124.689347.
+The PSNR of TF adapt is 124.689309.
+The PSNR of TF adapt is 124.689271.
+The PSNR of TF adapt is 124.689234.
+The PSNR of TF adapt is 124.689208.
+The PSNR of TF adapt is 124.689177.
+The PSNR of TF adapt is 124.689147.
+The PSNR of TF adapt is 124.689118.
+The error of number 35 slice is 0.162084.
+The error of number 35 slice is 0.159753.
+The error of number 35 slice is 0.160289.
+The error of number 35 slice is 0.160393.
+The error of number 35 slice is 0.160423.
+The error of number 35 slice is 0.160440.
+The error of number 35 slice is 0.160454.
+The error of number 35 slice is 0.160463.
+The error of number 35 slice is 0.160473.
+The error of number 35 slice is 0.160482.
+The error of number 35 slice is 0.160489.
+The error of number 35 slice is 0.160494.
+The error of number 35 slice is 0.160500.
+The error of number 35 slice is 0.160507.
+The error of number 35 slice is 0.160513.
+The error of number 35 slice is 0.160518.
+The error of number 35 slice is 0.160523.
+The error of number 35 slice is 0.160527.
+The error of number 35 slice is 0.160531.
+The error of number 35 slice is 0.160535.
+The error of number 35 slice is 0.160538.
+The error of number 35 slice is 0.160542.
+The error of number 35 slice is 0.160545.
+The error of number 35 slice is 0.160547.
+The error of number 35 slice is 0.160549.
+The error of number 35 slice is 0.160552.
+The error of number 35 slice is 0.160554.
+The error of number 35 slice is 0.160555.
+The error of number 35 slice is 0.160557.
+The error of number 35 slice is 0.160559.
+The error of number 35 slice is 0.160560.
+The error of number 35 slice is 0.160562.
+The error of number 35 slice is 0.160563.
+The error of number 35 slice is 0.160564.
+The error of number 35 slice is 0.160565.
+The error of number 35 slice is 0.160566.
+The error of number 35 slice is 0.160567.
+The error of number 35 slice is 0.160568.
+The error of number 35 slice is 0.160569.
+The error of number 35 slice is 0.160569.
+The error of number 35 slice is 0.160570.
+The error of number 35 slice is 0.160571.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The PSNR of TF adapt is 124.596566.
+The PSNR of TF adapt is 124.800814.
+The PSNR of TF adapt is 124.804994.
+The PSNR of TF adapt is 124.806166.
+The PSNR of TF adapt is 124.805962.
+The PSNR of TF adapt is 124.805198.
+The PSNR of TF adapt is 124.804334.
+The PSNR of TF adapt is 124.803483.
+The PSNR of TF adapt is 124.802583.
+The PSNR of TF adapt is 124.801741.
+The PSNR of TF adapt is 124.800931.
+The PSNR of TF adapt is 124.800123.
+The PSNR of TF adapt is 124.799339.
+The PSNR of TF adapt is 124.798621.
+The PSNR of TF adapt is 124.797946.
+The PSNR of TF adapt is 124.797282.
+The PSNR of TF adapt is 124.796636.
+The PSNR of TF adapt is 124.796034.
+The PSNR of TF adapt is 124.795436.
+The PSNR of TF adapt is 124.794869.
+The PSNR of TF adapt is 124.794325.
+The PSNR of TF adapt is 124.793799.
+The PSNR of TF adapt is 124.793300.
+The PSNR of TF adapt is 124.792814.
+The PSNR of TF adapt is 124.792338.
+The PSNR of TF adapt is 124.791876.
+The PSNR of TF adapt is 124.791413.
+The PSNR of TF adapt is 124.790970.
+The PSNR of TF adapt is 124.790544.
+The PSNR of TF adapt is 124.790150.
+The PSNR of TF adapt is 124.789756.
+The PSNR of TF adapt is 124.789370.
+The PSNR of TF adapt is 124.788995.
+The PSNR of TF adapt is 124.788629.
+The PSNR of TF adapt is 124.788273.
+The PSNR of TF adapt is 124.787928.
+The PSNR of TF adapt is 124.787590.
+The PSNR of TF adapt is 124.787258.
+The PSNR of TF adapt is 124.786937.
+The PSNR of TF adapt is 124.786623.
+The error of number 35 slice is 0.162866.
+The error of number 35 slice is 0.158954.
+The error of number 35 slice is 0.158949.
+The error of number 35 slice is 0.158960.
+The error of number 35 slice is 0.158973.
+The error of number 35 slice is 0.158989.
+The error of number 35 slice is 0.159003.
+The error of number 35 slice is 0.159016.
+The error of number 35 slice is 0.159030.
+The error of number 35 slice is 0.159042.
+The error of number 35 slice is 0.159054.
+The error of number 35 slice is 0.159066.
+The error of number 35 slice is 0.159078.
+The error of number 35 slice is 0.159088.
+The error of number 35 slice is 0.159098.
+The error of number 35 slice is 0.159108.
+The error of number 35 slice is 0.159118.
+The error of number 35 slice is 0.159127.
+The error of number 35 slice is 0.159136.
+The error of number 35 slice is 0.159144.
+The error of number 35 slice is 0.159152.
+The error of number 35 slice is 0.159160.
+The error of number 35 slice is 0.159168.
+The error of number 35 slice is 0.159175.
+The error of number 35 slice is 0.159182.
+The error of number 35 slice is 0.159189.
+The error of number 35 slice is 0.159196.
+The error of number 35 slice is 0.159203.
+The error of number 35 slice is 0.159209.
+The error of number 35 slice is 0.159215.
+The error of number 35 slice is 0.159221.
+The error of number 35 slice is 0.159227.
+The error of number 35 slice is 0.159233.
+The error of number 35 slice is 0.159238.
+The error of number 35 slice is 0.159244.
+The error of number 35 slice is 0.159249.
+The error of number 35 slice is 0.159254.
+The error of number 35 slice is 0.159259.
+The error of number 35 slice is 0.159264.
+The error of number 35 slice is 0.159269.
+
+
+ SNR=2.000000
+The PSNR of TF adapt is 122.802108.
+The PSNR of TF adapt is 123.211884.
+The PSNR of TF adapt is 123.222127.
+The PSNR of TF adapt is 123.226106.
+The PSNR of TF adapt is 123.227438.
+The PSNR of TF adapt is 123.227271.
+The PSNR of TF adapt is 123.226543.
+The PSNR of TF adapt is 123.225613.
+The PSNR of TF adapt is 123.224660.
+The PSNR of TF adapt is 123.223717.
+The PSNR of TF adapt is 123.222802.
+The PSNR of TF adapt is 123.221897.
+The PSNR of TF adapt is 123.221069.
+The PSNR of TF adapt is 123.220228.
+The PSNR of TF adapt is 123.219422.
+The PSNR of TF adapt is 123.218631.
+The PSNR of TF adapt is 123.217863.
+The PSNR of TF adapt is 123.217137.
+The PSNR of TF adapt is 123.216424.
+The PSNR of TF adapt is 123.215722.
+The PSNR of TF adapt is 123.215034.
+The PSNR of TF adapt is 123.214361.
+The PSNR of TF adapt is 123.213689.
+The PSNR of TF adapt is 123.213043.
+The PSNR of TF adapt is 123.212408.
+The PSNR of TF adapt is 123.211782.
+The PSNR of TF adapt is 123.211183.
+The PSNR of TF adapt is 123.210599.
+The PSNR of TF adapt is 123.210033.
+The PSNR of TF adapt is 123.209506.
+The PSNR of TF adapt is 123.208977.
+The PSNR of TF adapt is 123.208437.
+The PSNR of TF adapt is 123.207906.
+The PSNR of TF adapt is 123.207393.
+The PSNR of TF adapt is 123.206891.
+The PSNR of TF adapt is 123.206378.
+The PSNR of TF adapt is 123.205886.
+The PSNR of TF adapt is 123.205387.
+The PSNR of TF adapt is 123.204921.
+The PSNR of TF adapt is 123.204465.
+The error of number 35 slice is 0.202907.
+The error of number 35 slice is 0.196683.
+The error of number 35 slice is 0.196654.
+The error of number 35 slice is 0.196675.
+The error of number 35 slice is 0.196694.
+The error of number 35 slice is 0.196717.
+The error of number 35 slice is 0.196740.
+The error of number 35 slice is 0.196761.
+The error of number 35 slice is 0.196779.
+The error of number 35 slice is 0.196797.
+The error of number 35 slice is 0.196813.
+The error of number 35 slice is 0.196830.
+The error of number 35 slice is 0.196845.
+The error of number 35 slice is 0.196860.
+The error of number 35 slice is 0.196874.
+The error of number 35 slice is 0.196887.
+The error of number 35 slice is 0.196901.
+The error of number 35 slice is 0.196913.
+The error of number 35 slice is 0.196926.
+The error of number 35 slice is 0.196938.
+The error of number 35 slice is 0.196950.
+The error of number 35 slice is 0.196962.
+The error of number 35 slice is 0.196974.
+The error of number 35 slice is 0.196985.
+The error of number 35 slice is 0.196996.
+The error of number 35 slice is 0.197007.
+The error of number 35 slice is 0.197017.
+The error of number 35 slice is 0.197027.
+The error of number 35 slice is 0.197037.
+The error of number 35 slice is 0.197046.
+The error of number 35 slice is 0.197056.
+The error of number 35 slice is 0.197065.
+The error of number 35 slice is 0.197075.
+The error of number 35 slice is 0.197083.
+The error of number 35 slice is 0.197092.
+The error of number 35 slice is 0.197101.
+The error of number 35 slice is 0.197110.
+The error of number 35 slice is 0.197119.
+The error of number 35 slice is 0.197127.
+The error of number 35 slice is 0.197135.
+
+
+ SNR=1.000000
+The PSNR of TF adapt is 120.819939.
+The PSNR of TF adapt is 121.654583.
+The PSNR of TF adapt is 121.682040.
+The PSNR of TF adapt is 121.695578.
+The PSNR of TF adapt is 121.702615.
+The PSNR of TF adapt is 121.705663.
+The PSNR of TF adapt is 121.706681.
+The PSNR of TF adapt is 121.706585.
+The PSNR of TF adapt is 121.705918.
+The PSNR of TF adapt is 121.705056.
+The PSNR of TF adapt is 121.704075.
+The PSNR of TF adapt is 121.703056.
+The PSNR of TF adapt is 121.702045.
+The PSNR of TF adapt is 121.701041.
+The PSNR of TF adapt is 121.700076.
+The PSNR of TF adapt is 121.699141.
+The PSNR of TF adapt is 121.698212.
+The PSNR of TF adapt is 121.697311.
+The PSNR of TF adapt is 121.696421.
+The PSNR of TF adapt is 121.695550.
+The PSNR of TF adapt is 121.694708.
+The PSNR of TF adapt is 121.693887.
+The PSNR of TF adapt is 121.693085.
+The PSNR of TF adapt is 121.692325.
+The PSNR of TF adapt is 121.691577.
+The PSNR of TF adapt is 121.690862.
+The PSNR of TF adapt is 121.690139.
+The PSNR of TF adapt is 121.689420.
+The PSNR of TF adapt is 121.688708.
+The PSNR of TF adapt is 121.688007.
+The PSNR of TF adapt is 121.687322.
+The PSNR of TF adapt is 121.686648.
+The PSNR of TF adapt is 121.685987.
+The PSNR of TF adapt is 121.685309.
+The PSNR of TF adapt is 121.684672.
+The PSNR of TF adapt is 121.684054.
+The PSNR of TF adapt is 121.683445.
+The PSNR of TF adapt is 121.682838.
+The PSNR of TF adapt is 121.682247.
+The PSNR of TF adapt is 121.681664.
+The error of number 35 slice is 0.254303.
+The error of number 35 slice is 0.244049.
+The error of number 35 slice is 0.243962.
+The error of number 35 slice is 0.244031.
+The error of number 35 slice is 0.244086.
+The error of number 35 slice is 0.244135.
+The error of number 35 slice is 0.244171.
+The error of number 35 slice is 0.244205.
+The error of number 35 slice is 0.244234.
+The error of number 35 slice is 0.244261.
+The error of number 35 slice is 0.244286.
+The error of number 35 slice is 0.244309.
+The error of number 35 slice is 0.244331.
+The error of number 35 slice is 0.244351.
+The error of number 35 slice is 0.244371.
+The error of number 35 slice is 0.244389.
+The error of number 35 slice is 0.244408.
+The error of number 35 slice is 0.244426.
+The error of number 35 slice is 0.244444.
+The error of number 35 slice is 0.244461.
+The error of number 35 slice is 0.244477.
+The error of number 35 slice is 0.244493.
+The error of number 35 slice is 0.244509.
+The error of number 35 slice is 0.244524.
+The error of number 35 slice is 0.244539.
+The error of number 35 slice is 0.244553.
+The error of number 35 slice is 0.244568.
+The error of number 35 slice is 0.244582.
+The error of number 35 slice is 0.244597.
+The error of number 35 slice is 0.244611.
+The error of number 35 slice is 0.244624.
+The error of number 35 slice is 0.244638.
+The error of number 35 slice is 0.244651.
+The error of number 35 slice is 0.244664.
+The error of number 35 slice is 0.244677.
+The error of number 35 slice is 0.244689.
+The error of number 35 slice is 0.244702.
+The error of number 35 slice is 0.244714.
+The error of number 35 slice is 0.244726.
+The error of number 35 slice is 0.244737.
+
+
+ SNR=0.250000
+The PSNR of TF adapt is 116.140163.
+The PSNR of TF adapt is 118.614098.
+The PSNR of TF adapt is 118.772074.
+The PSNR of TF adapt is 118.810089.
+The PSNR of TF adapt is 118.835808.
+The PSNR of TF adapt is 118.852805.
+The PSNR of TF adapt is 118.863788.
+The PSNR of TF adapt is 118.870637.
+The PSNR of TF adapt is 118.874796.
+The PSNR of TF adapt is 118.876993.
+The PSNR of TF adapt is 118.878146.
+The PSNR of TF adapt is 118.878426.
+The PSNR of TF adapt is 118.878152.
+The PSNR of TF adapt is 118.877533.
+The PSNR of TF adapt is 118.876695.
+The PSNR of TF adapt is 118.875732.
+The PSNR of TF adapt is 118.874691.
+The PSNR of TF adapt is 118.873619.
+The PSNR of TF adapt is 118.872519.
+The PSNR of TF adapt is 118.871412.
+The PSNR of TF adapt is 118.870309.
+The PSNR of TF adapt is 118.869214.
+The PSNR of TF adapt is 118.868138.
+The PSNR of TF adapt is 118.867070.
+The PSNR of TF adapt is 118.866017.
+The PSNR of TF adapt is 118.864981.
+The PSNR of TF adapt is 118.863961.
+The PSNR of TF adapt is 118.862954.
+The PSNR of TF adapt is 118.861989.
+The PSNR of TF adapt is 118.861032.
+The PSNR of TF adapt is 118.860081.
+The PSNR of TF adapt is 118.859138.
+The PSNR of TF adapt is 118.858207.
+The PSNR of TF adapt is 118.857286.
+The PSNR of TF adapt is 118.856377.
+The PSNR of TF adapt is 118.855479.
+The PSNR of TF adapt is 118.854591.
+The PSNR of TF adapt is 118.853714.
+The PSNR of TF adapt is 118.852849.
+The PSNR of TF adapt is 118.851999.
+The error of number 35 slice is 0.411044.
+The error of number 35 slice is 0.375345.
+The error of number 35 slice is 0.377870.
+The error of number 35 slice is 0.378895.
+The error of number 35 slice is 0.379701.
+The error of number 35 slice is 0.380296.
+The error of number 35 slice is 0.380714.
+The error of number 35 slice is 0.381020.
+The error of number 35 slice is 0.381238.
+The error of number 35 slice is 0.381404.
+The error of number 35 slice is 0.381519.
+The error of number 35 slice is 0.381612.
+The error of number 35 slice is 0.381687.
+The error of number 35 slice is 0.381748.
+The error of number 35 slice is 0.381800.
+The error of number 35 slice is 0.381846.
+The error of number 35 slice is 0.381887.
+The error of number 35 slice is 0.381924.
+The error of number 35 slice is 0.381959.
+The error of number 35 slice is 0.381991.
+The error of number 35 slice is 0.382022.
+The error of number 35 slice is 0.382052.
+The error of number 35 slice is 0.382081.
+The error of number 35 slice is 0.382108.
+The error of number 35 slice is 0.382135.
+The error of number 35 slice is 0.382161.
+The error of number 35 slice is 0.382187.
+The error of number 35 slice is 0.382212.
+The error of number 35 slice is 0.382237.
+The error of number 35 slice is 0.382261.
+The error of number 35 slice is 0.382285.
+The error of number 35 slice is 0.382308.
+The error of number 35 slice is 0.382331.
+The error of number 35 slice is 0.382354.
+The error of number 35 slice is 0.382376.
+The error of number 35 slice is 0.382398.
+The error of number 35 slice is 0.382419.
+The error of number 35 slice is 0.382440.
+The error of number 35 slice is 0.382461.
+The error of number 35 slice is 0.382481.
+
+
+ SNR=0.062500
+The PSNR of TF adapt is 114.968624.
+The PSNR of TF adapt is 114.954318.
+The PSNR of TF adapt is 116.158662.
+The PSNR of TF adapt is 116.225404.
+The PSNR of TF adapt is 116.279199.
+The PSNR of TF adapt is 116.322237.
+The PSNR of TF adapt is 116.356178.
+The PSNR of TF adapt is 116.382716.
+The PSNR of TF adapt is 116.403373.
+The PSNR of TF adapt is 116.419173.
+The PSNR of TF adapt is 116.431277.
+The PSNR of TF adapt is 116.440497.
+The PSNR of TF adapt is 116.447446.
+The PSNR of TF adapt is 116.452465.
+The PSNR of TF adapt is 116.456085.
+The PSNR of TF adapt is 116.458626.
+The PSNR of TF adapt is 116.460278.
+The PSNR of TF adapt is 116.461209.
+The PSNR of TF adapt is 116.461645.
+The PSNR of TF adapt is 116.461585.
+The PSNR of TF adapt is 116.461188.
+The PSNR of TF adapt is 116.460523.
+The PSNR of TF adapt is 116.459732.
+The PSNR of TF adapt is 116.458816.
+The PSNR of TF adapt is 116.457787.
+The PSNR of TF adapt is 116.456663.
+The PSNR of TF adapt is 116.455480.
+The PSNR of TF adapt is 116.454241.
+The PSNR of TF adapt is 116.452960.
+The PSNR of TF adapt is 116.451673.
+The PSNR of TF adapt is 116.450390.
+The PSNR of TF adapt is 116.449095.
+The PSNR of TF adapt is 116.447798.
+The PSNR of TF adapt is 116.446501.
+The PSNR of TF adapt is 116.445207.
+The PSNR of TF adapt is 116.443917.
+The PSNR of TF adapt is 116.442634.
+The PSNR of TF adapt is 116.441359.
+The PSNR of TF adapt is 116.440095.
+The PSNR of TF adapt is 116.438838.
+The error of number 35 slice is 0.566212.
+The error of number 35 slice is 0.549260.
+The error of number 35 slice is 0.581458.
+The error of number 35 slice is 0.586180.
+The error of number 35 slice is 0.590055.
+The error of number 35 slice is 0.593401.
+The error of number 35 slice is 0.596284.
+The error of number 35 slice is 0.598687.
+The error of number 35 slice is 0.600634.
+The error of number 35 slice is 0.602245.
+The error of number 35 slice is 0.603532.
+The error of number 35 slice is 0.604611.
+The error of number 35 slice is 0.605471.
+The error of number 35 slice is 0.606174.
+The error of number 35 slice is 0.606736.
+The error of number 35 slice is 0.607209.
+The error of number 35 slice is 0.607589.
+The error of number 35 slice is 0.607890.
+The error of number 35 slice is 0.608131.
+The error of number 35 slice is 0.608336.
+The error of number 35 slice is 0.608497.
+The error of number 35 slice is 0.608638.
+The error of number 35 slice is 0.608758.
+The error of number 35 slice is 0.608860.
+The error of number 35 slice is 0.608950.
+The error of number 35 slice is 0.609030.
+The error of number 35 slice is 0.609101.
+The error of number 35 slice is 0.609158.
+The error of number 35 slice is 0.609216.
+The error of number 35 slice is 0.609267.
+The error of number 35 slice is 0.609318.
+The error of number 35 slice is 0.609365.
+The error of number 35 slice is 0.609409.
+The error of number 35 slice is 0.609451.
+The error of number 35 slice is 0.609490.
+The error of number 35 slice is 0.609528.
+The error of number 35 slice is 0.609564.
+The error of number 35 slice is 0.609599.
+The error of number 35 slice is 0.609634.
+The error of number 35 slice is 0.609670.
+
+
+ SNR=0.015625
+The PSNR of TF adapt is 109.830713.
+The PSNR of TF adapt is 110.291189.
+The PSNR of TF adapt is 112.788307.
+The PSNR of TF adapt is 113.857558.
+The PSNR of TF adapt is 114.051183.
+The PSNR of TF adapt is 114.124542.
+The PSNR of TF adapt is 114.187905.
+The PSNR of TF adapt is 114.243176.
+The PSNR of TF adapt is 114.291451.
+The PSNR of TF adapt is 114.333471.
+The PSNR of TF adapt is 114.369937.
+The PSNR of TF adapt is 114.401612.
+The PSNR of TF adapt is 114.413904.
+The PSNR of TF adapt is 114.449597.
+The PSNR of TF adapt is 114.471820.
+The PSNR of TF adapt is 114.474740.
+The PSNR of TF adapt is 114.502562.
+The PSNR of TF adapt is 114.517729.
+The PSNR of TF adapt is 114.529706.
+The PSNR of TF adapt is 114.539844.
+The PSNR of TF adapt is 114.548452.
+The PSNR of TF adapt is 114.555728.
+The PSNR of TF adapt is 114.561854.
+The PSNR of TF adapt is 114.566964.
+The PSNR of TF adapt is 114.571208.
+The PSNR of TF adapt is 114.574647.
+The PSNR of TF adapt is 114.577455.
+The PSNR of TF adapt is 114.579675.
+The PSNR of TF adapt is 114.581361.
+The PSNR of TF adapt is 114.582619.
+The PSNR of TF adapt is 114.583392.
+The PSNR of TF adapt is 114.583837.
+The PSNR of TF adapt is 114.583991.
+The PSNR of TF adapt is 114.583890.
+The PSNR of TF adapt is 114.583565.
+The PSNR of TF adapt is 114.583044.
+The PSNR of TF adapt is 114.582332.
+The PSNR of TF adapt is 114.581446.
+The PSNR of TF adapt is 114.580389.
+The PSNR of TF adapt is 114.579211.
+The error of number 35 slice is 0.764926.
+The error of number 35 slice is 0.748441.
+The error of number 35 slice is 0.774517.
+The error of number 35 slice is 0.851724.
+The error of number 35 slice is 0.873522.
+The error of number 35 slice is 0.882660.
+The error of number 35 slice is 0.891336.
+The error of number 35 slice is 0.899495.
+The error of number 35 slice is 0.907062.
+The error of number 35 slice is 0.913950.
+The error of number 35 slice is 0.920227.
+The error of number 35 slice is 0.925928.
+The error of number 35 slice is 0.931286.
+The error of number 35 slice is 0.935447.
+The error of number 35 slice is 0.939598.
+The error of number 35 slice is 0.943518.
+The error of number 35 slice is 0.946549.
+The error of number 35 slice is 0.949625.
+The error of number 35 slice is 0.952411.
+The error of number 35 slice is 0.954880.
+The error of number 35 slice is 0.957105.
+The error of number 35 slice is 0.959061.
+The error of number 35 slice is 0.960813.
+The error of number 35 slice is 0.962345.
+The error of number 35 slice is 0.963719.
+The error of number 35 slice is 0.964888.
+The error of number 35 slice is 0.965941.
+The error of number 35 slice is 0.966884.
+The error of number 35 slice is 0.967741.
+The error of number 35 slice is 0.968489.
+The error of number 35 slice is 0.969150.
+The error of number 35 slice is 0.969738.
+The error of number 35 slice is 0.970268.
+The error of number 35 slice is 0.970746.
+The error of number 35 slice is 0.971159.
+The error of number 35 slice is 0.971544.
+The error of number 35 slice is 0.971873.
+The error of number 35 slice is 0.972163.
+The error of number 35 slice is 0.972415.
+The error of number 35 slice is 0.972632.
+
+ n=   69, projection NO:  1800
+
+
+ SNR=4.000000
+The PSNR of TF adapt is 123.299411.
+The PSNR of TF adapt is 126.163744.
+The PSNR of TF adapt is 127.002363.
+The PSNR of TF adapt is 127.072399.
+The PSNR of TF adapt is 127.124118.
+The PSNR of TF adapt is 127.163000.
+The PSNR of TF adapt is 127.191716.
+The PSNR of TF adapt is 127.213051.
+The PSNR of TF adapt is 127.228619.
+The PSNR of TF adapt is 127.239936.
+The PSNR of TF adapt is 127.248087.
+The PSNR of TF adapt is 127.253877.
+The PSNR of TF adapt is 127.258141.
+The PSNR of TF adapt is 127.261123.
+The PSNR of TF adapt is 127.263196.
+The PSNR of TF adapt is 127.264695.
+The PSNR of TF adapt is 127.265653.
+The PSNR of TF adapt is 127.266208.
+The PSNR of TF adapt is 127.266523.
+The PSNR of TF adapt is 127.266661.
+The PSNR of TF adapt is 127.266677.
+The PSNR of TF adapt is 127.266622.
+The PSNR of TF adapt is 127.266497.
+The PSNR of TF adapt is 127.266334.
+The PSNR of TF adapt is 127.266123.
+The PSNR of TF adapt is 127.265880.
+The PSNR of TF adapt is 127.265638.
+The PSNR of TF adapt is 127.265407.
+The PSNR of TF adapt is 127.265160.
+The PSNR of TF adapt is 127.264910.
+The PSNR of TF adapt is 127.264658.
+The PSNR of TF adapt is 127.264408.
+The PSNR of TF adapt is 127.264159.
+The PSNR of TF adapt is 127.263913.
+The PSNR of TF adapt is 127.263670.
+The PSNR of TF adapt is 127.263431.
+The PSNR of TF adapt is 127.263195.
+The PSNR of TF adapt is 127.262963.
+The PSNR of TF adapt is 127.262735.
+The PSNR of TF adapt is 127.262484.
+The error of number 35 slice is 0.172618.
+The error of number 35 slice is 0.127343.
+The error of number 35 slice is 0.117968.
+The error of number 35 slice is 0.117321.
+The error of number 35 slice is 0.116866.
+The error of number 35 slice is 0.116531.
+The error of number 35 slice is 0.116291.
+The error of number 35 slice is 0.116116.
+The error of number 35 slice is 0.115991.
+The error of number 35 slice is 0.115901.
+The error of number 35 slice is 0.115839.
+The error of number 35 slice is 0.115795.
+The error of number 35 slice is 0.115763.
+The error of number 35 slice is 0.115742.
+The error of number 35 slice is 0.115728.
+The error of number 35 slice is 0.115717.
+The error of number 35 slice is 0.115711.
+The error of number 35 slice is 0.115709.
+The error of number 35 slice is 0.115709.
+The error of number 35 slice is 0.115709.
+The error of number 35 slice is 0.115711.
+The error of number 35 slice is 0.115713.
+The error of number 35 slice is 0.115715.
+The error of number 35 slice is 0.115718.
+The error of number 35 slice is 0.115721.
+The error of number 35 slice is 0.115725.
+The error of number 35 slice is 0.115728.
+The error of number 35 slice is 0.115731.
+The error of number 35 slice is 0.115734.
+The error of number 35 slice is 0.115738.
+The error of number 35 slice is 0.115741.
+The error of number 35 slice is 0.115744.
+The error of number 35 slice is 0.115748.
+The error of number 35 slice is 0.115751.
+The error of number 35 slice is 0.115754.
+The error of number 35 slice is 0.115757.
+The error of number 35 slice is 0.115760.
+The error of number 35 slice is 0.115763.
+The error of number 35 slice is 0.115766.
+The error of number 35 slice is 0.115770.
+
+
+ SNR=2.000000
+The PSNR of TF adapt is 120.268437.
+The PSNR of TF adapt is 123.569860.
+The PSNR of TF adapt is 125.066993.
+The PSNR of TF adapt is 125.273993.
+The PSNR of TF adapt is 125.344342.
+The PSNR of TF adapt is 125.399903.
+The PSNR of TF adapt is 125.443055.
+The PSNR of TF adapt is 125.476361.
+The PSNR of TF adapt is 125.502072.
+The PSNR of TF adapt is 125.522131.
+The PSNR of TF adapt is 125.537392.
+The PSNR of TF adapt is 125.549146.
+The PSNR of TF adapt is 125.558017.
+The PSNR of TF adapt is 125.564717.
+The PSNR of TF adapt is 125.569744.
+The PSNR of TF adapt is 125.573496.
+The PSNR of TF adapt is 125.576355.
+The PSNR of TF adapt is 125.578365.
+The PSNR of TF adapt is 125.579734.
+The PSNR of TF adapt is 125.580755.
+The PSNR of TF adapt is 125.581470.
+The PSNR of TF adapt is 125.581995.
+The PSNR of TF adapt is 125.582267.
+The PSNR of TF adapt is 125.582379.
+The PSNR of TF adapt is 125.582397.
+The PSNR of TF adapt is 125.582352.
+The PSNR of TF adapt is 125.582230.
+The PSNR of TF adapt is 125.582102.
+The PSNR of TF adapt is 125.581905.
+The PSNR of TF adapt is 125.581727.
+The PSNR of TF adapt is 125.581480.
+The PSNR of TF adapt is 125.581240.
+The PSNR of TF adapt is 125.580991.
+The PSNR of TF adapt is 125.580725.
+The PSNR of TF adapt is 125.580452.
+The PSNR of TF adapt is 125.580175.
+The PSNR of TF adapt is 125.579871.
+The PSNR of TF adapt is 125.579585.
+The PSNR of TF adapt is 125.579303.
+The PSNR of TF adapt is 125.579024.
+The error of number 35 slice is 0.241084.
+The error of number 35 slice is 0.170349.
+The error of number 35 slice is 0.148001.
+The error of number 35 slice is 0.145710.
+The error of number 35 slice is 0.145012.
+The error of number 35 slice is 0.144486.
+The error of number 35 slice is 0.144097.
+The error of number 35 slice is 0.143810.
+The error of number 35 slice is 0.143596.
+The error of number 35 slice is 0.143432.
+The error of number 35 slice is 0.143312.
+The error of number 35 slice is 0.143220.
+The error of number 35 slice is 0.143154.
+The error of number 35 slice is 0.143106.
+The error of number 35 slice is 0.143072.
+The error of number 35 slice is 0.143047.
+The error of number 35 slice is 0.143028.
+The error of number 35 slice is 0.143017.
+The error of number 35 slice is 0.143011.
+The error of number 35 slice is 0.143007.
+The error of number 35 slice is 0.143004.
+The error of number 35 slice is 0.143003.
+The error of number 35 slice is 0.143004.
+The error of number 35 slice is 0.143006.
+The error of number 35 slice is 0.143009.
+The error of number 35 slice is 0.143012.
+The error of number 35 slice is 0.143016.
+The error of number 35 slice is 0.143019.
+The error of number 35 slice is 0.143023.
+The error of number 35 slice is 0.143027.
+The error of number 35 slice is 0.143031.
+The error of number 35 slice is 0.143036.
+The error of number 35 slice is 0.143040.
+The error of number 35 slice is 0.143044.
+The error of number 35 slice is 0.143049.
+The error of number 35 slice is 0.143054.
+The error of number 35 slice is 0.143059.
+The error of number 35 slice is 0.143063.
+The error of number 35 slice is 0.143068.
+The error of number 35 slice is 0.143072.
+
+
+ SNR=1.000000
+The PSNR of TF adapt is 117.246081.
+The PSNR of TF adapt is 120.813023.
+The PSNR of TF adapt is 122.870012.
+The PSNR of TF adapt is 123.580064.
+The PSNR of TF adapt is 123.654068.
+The PSNR of TF adapt is 123.714367.
+The PSNR of TF adapt is 123.763510.
+The PSNR of TF adapt is 123.803174.
+The PSNR of TF adapt is 123.835125.
+The PSNR of TF adapt is 123.860664.
+The PSNR of TF adapt is 123.880639.
+The PSNR of TF adapt is 123.896539.
+The PSNR of TF adapt is 123.909356.
+The PSNR of TF adapt is 123.919488.
+The PSNR of TF adapt is 123.927607.
+The PSNR of TF adapt is 123.934274.
+The PSNR of TF adapt is 123.939147.
+The PSNR of TF adapt is 123.943040.
+The PSNR of TF adapt is 123.946004.
+The PSNR of TF adapt is 123.948318.
+The PSNR of TF adapt is 123.950071.
+The PSNR of TF adapt is 123.951429.
+The PSNR of TF adapt is 123.952344.
+The PSNR of TF adapt is 123.953048.
+The PSNR of TF adapt is 123.953504.
+The PSNR of TF adapt is 123.953785.
+The PSNR of TF adapt is 123.953885.
+The PSNR of TF adapt is 123.953928.
+The PSNR of TF adapt is 123.953838.
+The PSNR of TF adapt is 123.953727.
+The PSNR of TF adapt is 123.953547.
+The PSNR of TF adapt is 123.953343.
+The PSNR of TF adapt is 123.953077.
+The PSNR of TF adapt is 123.952806.
+The PSNR of TF adapt is 123.952550.
+The PSNR of TF adapt is 123.952268.
+The PSNR of TF adapt is 123.951976.
+The PSNR of TF adapt is 123.951678.
+The PSNR of TF adapt is 123.951375.
+The PSNR of TF adapt is 123.951073.
+The error of number 35 slice is 0.331916.
+The error of number 35 slice is 0.231004.
+The error of number 35 slice is 0.189535.
+The error of number 35 slice is 0.179797.
+The error of number 35 slice is 0.179046.
+The error of number 35 slice is 0.178478.
+The error of number 35 slice is 0.178046.
+The error of number 35 slice is 0.177721.
+The error of number 35 slice is 0.177474.
+The error of number 35 slice is 0.177290.
+The error of number 35 slice is 0.177161.
+The error of number 35 slice is 0.177063.
+The error of number 35 slice is 0.176985.
+The error of number 35 slice is 0.176927.
+The error of number 35 slice is 0.176881.
+The error of number 35 slice is 0.176840.
+The error of number 35 slice is 0.176819.
+The error of number 35 slice is 0.176802.
+The error of number 35 slice is 0.176791.
+The error of number 35 slice is 0.176784.
+The error of number 35 slice is 0.176780.
+The error of number 35 slice is 0.176776.
+The error of number 35 slice is 0.176778.
+The error of number 35 slice is 0.176779.
+The error of number 35 slice is 0.176782.
+The error of number 35 slice is 0.176786.
+The error of number 35 slice is 0.176791.
+The error of number 35 slice is 0.176796.
+The error of number 35 slice is 0.176803.
+The error of number 35 slice is 0.176808.
+The error of number 35 slice is 0.176814.
+The error of number 35 slice is 0.176820.
+The error of number 35 slice is 0.176827.
+The error of number 35 slice is 0.176833.
+The error of number 35 slice is 0.176839.
+The error of number 35 slice is 0.176845.
+The error of number 35 slice is 0.176851.
+The error of number 35 slice is 0.176858.
+The error of number 35 slice is 0.176864.
+The error of number 35 slice is 0.176870.
+
+
+ SNR=0.250000
+The PSNR of TF adapt is 111.215920.
+The PSNR of TF adapt is 115.015708.
+The PSNR of TF adapt is 117.836713.
+The PSNR of TF adapt is 119.527811.
+The PSNR of TF adapt is 120.341288.
+The PSNR of TF adapt is 120.420825.
+The PSNR of TF adapt is 120.488994.
+The PSNR of TF adapt is 120.547584.
+The PSNR of TF adapt is 120.597883.
+The PSNR of TF adapt is 120.641034.
+The PSNR of TF adapt is 120.677703.
+The PSNR of TF adapt is 120.708770.
+The PSNR of TF adapt is 120.735271.
+The PSNR of TF adapt is 120.757909.
+The PSNR of TF adapt is 120.776652.
+The PSNR of TF adapt is 120.792493.
+The PSNR of TF adapt is 120.806064.
+The PSNR of TF adapt is 120.817533.
+The PSNR of TF adapt is 120.826915.
+The PSNR of TF adapt is 120.834841.
+The PSNR of TF adapt is 120.841400.
+The PSNR of TF adapt is 120.847011.
+The PSNR of TF adapt is 120.851414.
+The PSNR of TF adapt is 120.855226.
+The PSNR of TF adapt is 120.858442.
+The PSNR of TF adapt is 120.860991.
+The PSNR of TF adapt is 120.863264.
+The PSNR of TF adapt is 120.865021.
+The PSNR of TF adapt is 120.866310.
+The PSNR of TF adapt is 120.867411.
+The PSNR of TF adapt is 120.868279.
+The PSNR of TF adapt is 120.868917.
+The PSNR of TF adapt is 120.869438.
+The PSNR of TF adapt is 120.869762.
+The PSNR of TF adapt is 120.869877.
+The PSNR of TF adapt is 120.869972.
+The PSNR of TF adapt is 120.869965.
+The PSNR of TF adapt is 120.869879.
+The PSNR of TF adapt is 120.869781.
+The PSNR of TF adapt is 120.869629.
+The error of number 35 slice is 0.576322.
+The error of number 35 slice is 0.420438.
+The error of number 35 slice is 0.325954.
+The error of number 35 slice is 0.284016.
+The error of number 35 slice is 0.272343.
+The error of number 35 slice is 0.271751.
+The error of number 35 slice is 0.271366.
+The error of number 35 slice is 0.271127.
+The error of number 35 slice is 0.270984.
+The error of number 35 slice is 0.270912.
+The error of number 35 slice is 0.270902.
+The error of number 35 slice is 0.270938.
+The error of number 35 slice is 0.270990.
+The error of number 35 slice is 0.271051.
+The error of number 35 slice is 0.271134.
+The error of number 35 slice is 0.271218.
+The error of number 35 slice is 0.271289.
+The error of number 35 slice is 0.271359.
+The error of number 35 slice is 0.271434.
+The error of number 35 slice is 0.271502.
+The error of number 35 slice is 0.271564.
+The error of number 35 slice is 0.271616.
+The error of number 35 slice is 0.271675.
+The error of number 35 slice is 0.271719.
+The error of number 35 slice is 0.271758.
+The error of number 35 slice is 0.271797.
+The error of number 35 slice is 0.271826.
+The error of number 35 slice is 0.271856.
+The error of number 35 slice is 0.271888.
+The error of number 35 slice is 0.271914.
+The error of number 35 slice is 0.271938.
+The error of number 35 slice is 0.271960.
+The error of number 35 slice is 0.271979.
+The error of number 35 slice is 0.271999.
+The error of number 35 slice is 0.272020.
+The error of number 35 slice is 0.272037.
+The error of number 35 slice is 0.272053.
+The error of number 35 slice is 0.272070.
+The error of number 35 slice is 0.272083.
+The error of number 35 slice is 0.272097.
+
+
+ SNR=0.062500
+The PSNR of TF adapt is 105.193042.
+The PSNR of TF adapt is 109.052535.
+The PSNR of TF adapt is 112.178500.
+The PSNR of TF adapt is 114.527892.
+The PSNR of TF adapt is 116.094217.
+The PSNR of TF adapt is 117.023316.
+The PSNR of TF adapt is 117.232428.
+The PSNR of TF adapt is 117.321338.
+The PSNR of TF adapt is 117.401578.
+The PSNR of TF adapt is 117.474167.
+The PSNR of TF adapt is 117.538973.
+The PSNR of TF adapt is 117.597370.
+The PSNR of TF adapt is 117.650046.
+The PSNR of TF adapt is 117.697004.
+The PSNR of TF adapt is 117.739563.
+The PSNR of TF adapt is 117.777994.
+The PSNR of TF adapt is 117.812105.
+The PSNR of TF adapt is 117.842720.
+The PSNR of TF adapt is 117.870190.
+The PSNR of TF adapt is 117.894967.
+The PSNR of TF adapt is 117.916969.
+The PSNR of TF adapt is 117.936553.
+The PSNR of TF adapt is 117.953958.
+The PSNR of TF adapt is 117.969549.
+The PSNR of TF adapt is 117.983334.
+The PSNR of TF adapt is 117.995805.
+The PSNR of TF adapt is 118.007057.
+The PSNR of TF adapt is 118.017167.
+The PSNR of TF adapt is 118.026166.
+The PSNR of TF adapt is 118.034147.
+The PSNR of TF adapt is 118.041359.
+The PSNR of TF adapt is 118.047532.
+The PSNR of TF adapt is 118.053160.
+The PSNR of TF adapt is 118.057817.
+The PSNR of TF adapt is 118.061986.
+The PSNR of TF adapt is 118.065736.
+The PSNR of TF adapt is 118.068929.
+The PSNR of TF adapt is 118.071904.
+The PSNR of TF adapt is 118.074371.
+The PSNR of TF adapt is 118.076391.
+The error of number 35 slice is 0.816439.
+The error of number 35 slice is 0.678198.
+The error of number 35 slice is 0.552865.
+The error of number 35 slice is 0.466744.
+The error of number 35 slice is 0.422665.
+The error of number 35 slice is 0.409232.
+The error of number 35 slice is 0.408557.
+The error of number 35 slice is 0.408673.
+The error of number 35 slice is 0.409000.
+The error of number 35 slice is 0.409476.
+The error of number 35 slice is 0.410083.
+The error of number 35 slice is 0.410773.
+The error of number 35 slice is 0.411503.
+The error of number 35 slice is 0.412291.
+The error of number 35 slice is 0.413070.
+The error of number 35 slice is 0.413844.
+The error of number 35 slice is 0.414612.
+The error of number 35 slice is 0.415357.
+The error of number 35 slice is 0.416066.
+The error of number 35 slice is 0.416741.
+The error of number 35 slice is 0.417379.
+The error of number 35 slice is 0.417985.
+The error of number 35 slice is 0.418558.
+The error of number 35 slice is 0.419078.
+The error of number 35 slice is 0.419571.
+The error of number 35 slice is 0.420018.
+The error of number 35 slice is 0.420425.
+The error of number 35 slice is 0.420802.
+The error of number 35 slice is 0.421154.
+The error of number 35 slice is 0.421475.
+The error of number 35 slice is 0.421763.
+The error of number 35 slice is 0.422035.
+The error of number 35 slice is 0.422278.
+The error of number 35 slice is 0.422513.
+The error of number 35 slice is 0.422727.
+The error of number 35 slice is 0.422917.
+The error of number 35 slice is 0.423091.
+The error of number 35 slice is 0.423239.
+The error of number 35 slice is 0.423385.
+The error of number 35 slice is 0.423524.
+
+
+ SNR=0.015625
+The PSNR of TF adapt is 99.171980.
+The PSNR of TF adapt is 103.056989.
+The PSNR of TF adapt is 106.269469.
+The PSNR of TF adapt is 108.890673.
+The PSNR of TF adapt is 110.949469.
+The PSNR of TF adapt is 112.471827.
+The PSNR of TF adapt is 113.541575.
+The PSNR of TF adapt is 114.273418.
+The PSNR of TF adapt is 114.372073.
+The PSNR of TF adapt is 114.461764.
+The PSNR of TF adapt is 114.545515.
+The PSNR of TF adapt is 114.623976.
+The PSNR of TF adapt is 114.697179.
+The PSNR of TF adapt is 114.765555.
+The PSNR of TF adapt is 114.829530.
+The PSNR of TF adapt is 114.889383.
+The PSNR of TF adapt is 114.945024.
+The PSNR of TF adapt is 114.997080.
+The PSNR of TF adapt is 115.045606.
+The PSNR of TF adapt is 115.090895.
+The PSNR of TF adapt is 115.133158.
+The PSNR of TF adapt is 115.160616.
+The PSNR of TF adapt is 115.206273.
+The PSNR of TF adapt is 115.229492.
+The PSNR of TF adapt is 115.271093.
+The PSNR of TF adapt is 115.289901.
+The PSNR of TF adapt is 115.327543.
+The PSNR of TF adapt is 115.342381.
+The PSNR of TF adapt is 115.363948.
+The PSNR of TF adapt is 115.385078.
+The PSNR of TF adapt is 115.404920.
+The PSNR of TF adapt is 115.423568.
+The PSNR of TF adapt is 115.440978.
+The PSNR of TF adapt is 115.457351.
+The PSNR of TF adapt is 115.472548.
+The PSNR of TF adapt is 115.486552.
+The PSNR of TF adapt is 115.499691.
+The PSNR of TF adapt is 115.511867.
+The PSNR of TF adapt is 115.523235.
+The PSNR of TF adapt is 115.533773.
+The error of number 35 slice is 0.943258.
+The error of number 35 slice is 0.879652.
+The error of number 35 slice is 0.796471.
+The error of number 35 slice is 0.712762.
+The error of number 35 slice is 0.646257.
+The error of number 35 slice is 0.605999.
+The error of number 35 slice is 0.590957.
+The error of number 35 slice is 0.593560.
+The error of number 35 slice is 0.594941.
+The error of number 35 slice is 0.596675.
+The error of number 35 slice is 0.598604.
+The error of number 35 slice is 0.600668.
+The error of number 35 slice is 0.602845.
+The error of number 35 slice is 0.605120.
+The error of number 35 slice is 0.607458.
+The error of number 35 slice is 0.609835.
+The error of number 35 slice is 0.612215.
+The error of number 35 slice is 0.614600.
+The error of number 35 slice is 0.616985.
+The error of number 35 slice is 0.619340.
+The error of number 35 slice is 0.621658.
+The error of number 35 slice is 0.624565.
+The error of number 35 slice is 0.626157.
+The error of number 35 slice is 0.628894.
+The error of number 35 slice is 0.630360.
+The error of number 35 slice is 0.632976.
+The error of number 35 slice is 0.634316.
+The error of number 35 slice is 0.636772.
+The error of number 35 slice is 0.638560.
+The error of number 35 slice is 0.640242.
+The error of number 35 slice is 0.641867.
+The error of number 35 slice is 0.643428.
+The error of number 35 slice is 0.644912.
+The error of number 35 slice is 0.646337.
+The error of number 35 slice is 0.647689.
+The error of number 35 slice is 0.648974.
+The error of number 35 slice is 0.650194.
+The error of number 35 slice is 0.651363.
+The error of number 35 slice is 0.652456.
+The error of number 35 slice is 0.653492.
+
+ n=   69, projection NO:  5400
+
+
+ SNR=4.000000
+The PSNR of TF adapt is 120.547860.
+The PSNR of TF adapt is 122.601969.
+The PSNR of TF adapt is 124.496075.
+The PSNR of TF adapt is 126.169836.
+The PSNR of TF adapt is 127.546624.
+The PSNR of TF adapt is 128.560599.
+The PSNR of TF adapt is 128.818860.
+The PSNR of TF adapt is 128.933016.
+The PSNR of TF adapt is 129.037369.
+The PSNR of TF adapt is 129.133383.
+The PSNR of TF adapt is 129.221102.
+The PSNR of TF adapt is 129.301145.
+The PSNR of TF adapt is 129.374009.
+The PSNR of TF adapt is 129.440015.
+The PSNR of TF adapt is 129.499925.
+The PSNR of TF adapt is 129.553731.
+The PSNR of TF adapt is 129.602452.
+The PSNR of TF adapt is 129.646301.
+The PSNR of TF adapt is 129.685885.
+The PSNR of TF adapt is 129.721450.
+The PSNR of TF adapt is 129.753124.
+The PSNR of TF adapt is 129.781742.
+The PSNR of TF adapt is 129.807206.
+The PSNR of TF adapt is 129.829738.
+The PSNR of TF adapt is 129.849969.
+The PSNR of TF adapt is 129.868012.
+The PSNR of TF adapt is 129.884155.
+The PSNR of TF adapt is 129.898493.
+The PSNR of TF adapt is 129.911388.
+The PSNR of TF adapt is 129.922803.
+The PSNR of TF adapt is 129.932994.
+The PSNR of TF adapt is 129.942039.
+The PSNR of TF adapt is 129.950035.
+The PSNR of TF adapt is 129.957207.
+The PSNR of TF adapt is 129.963735.
+The PSNR of TF adapt is 129.969468.
+The PSNR of TF adapt is 129.974551.
+The PSNR of TF adapt is 129.979082.
+The PSNR of TF adapt is 129.983100.
+The PSNR of TF adapt is 129.986652.
+The error of number 35 slice is 0.230486.
+The error of number 35 slice is 0.184070.
+The error of number 35 slice is 0.149295.
+The error of number 35 slice is 0.124001.
+The error of number 35 slice is 0.106518.
+The error of number 35 slice is 0.095433.
+The error of number 35 slice is 0.092861.
+The error of number 35 slice is 0.091759.
+The error of number 35 slice is 0.090773.
+The error of number 35 slice is 0.089884.
+The error of number 35 slice is 0.089087.
+The error of number 35 slice is 0.088373.
+The error of number 35 slice is 0.087735.
+The error of number 35 slice is 0.087167.
+The error of number 35 slice is 0.086660.
+The error of number 35 slice is 0.086212.
+The error of number 35 slice is 0.085813.
+The error of number 35 slice is 0.085459.
+The error of number 35 slice is 0.085143.
+The error of number 35 slice is 0.084862.
+The error of number 35 slice is 0.084616.
+The error of number 35 slice is 0.084396.
+The error of number 35 slice is 0.084202.
+The error of number 35 slice is 0.084033.
+The error of number 35 slice is 0.083882.
+The error of number 35 slice is 0.083748.
+The error of number 35 slice is 0.083630.
+The error of number 35 slice is 0.083525.
+The error of number 35 slice is 0.083431.
+The error of number 35 slice is 0.083348.
+The error of number 35 slice is 0.083275.
+The error of number 35 slice is 0.083210.
+The error of number 35 slice is 0.083153.
+The error of number 35 slice is 0.083102.
+The error of number 35 slice is 0.083055.
+The error of number 35 slice is 0.083015.
+The error of number 35 slice is 0.082979.
+The error of number 35 slice is 0.082947.
+The error of number 35 slice is 0.082919.
+The error of number 35 slice is 0.082894.
+
+
+ SNR=2.000000
+The PSNR of TF adapt is 117.398665.
+The PSNR of TF adapt is 119.332537.
+The PSNR of TF adapt is 121.139779.
+The PSNR of TF adapt is 122.793663.
+The PSNR of TF adapt is 124.262461.
+The PSNR of TF adapt is 125.498379.
+The PSNR of TF adapt is 126.459882.
+The PSNR of TF adapt is 126.719512.
+The PSNR of TF adapt is 126.837703.
+The PSNR of TF adapt is 126.947878.
+The PSNR of TF adapt is 127.050863.
+The PSNR of TF adapt is 127.146630.
+The PSNR of TF adapt is 127.235999.
+The PSNR of TF adapt is 127.319109.
+The PSNR of TF adapt is 127.395871.
+The PSNR of TF adapt is 127.467187.
+The PSNR of TF adapt is 127.533189.
+The PSNR of TF adapt is 127.594229.
+The PSNR of TF adapt is 127.650170.
+The PSNR of TF adapt is 127.701944.
+The PSNR of TF adapt is 127.749311.
+The PSNR of TF adapt is 127.792866.
+The PSNR of TF adapt is 127.832601.
+The PSNR of TF adapt is 127.869289.
+The PSNR of TF adapt is 127.902608.
+The PSNR of TF adapt is 127.933204.
+The PSNR of TF adapt is 127.961142.
+The PSNR of TF adapt is 127.986636.
+The PSNR of TF adapt is 128.009936.
+The PSNR of TF adapt is 128.031219.
+The PSNR of TF adapt is 128.050493.
+The PSNR of TF adapt is 128.068170.
+The PSNR of TF adapt is 128.084208.
+The PSNR of TF adapt is 128.098567.
+The PSNR of TF adapt is 128.111830.
+The PSNR of TF adapt is 128.123782.
+The PSNR of TF adapt is 128.134621.
+The PSNR of TF adapt is 128.144318.
+The PSNR of TF adapt is 128.153128.
+The PSNR of TF adapt is 128.161223.
+The error of number 35 slice is 0.322194.
+The error of number 35 slice is 0.263163.
+The error of number 35 slice is 0.216788.
+The error of number 35 slice is 0.181099.
+The error of number 35 slice is 0.154237.
+The error of number 35 slice is 0.134806.
+The error of number 35 slice is 0.121592.
+The error of number 35 slice is 0.118318.
+The error of number 35 slice is 0.116871.
+The error of number 35 slice is 0.115549.
+The error of number 35 slice is 0.114336.
+The error of number 35 slice is 0.113230.
+The error of number 35 slice is 0.112217.
+The error of number 35 slice is 0.111292.
+The error of number 35 slice is 0.110453.
+The error of number 35 slice is 0.109687.
+The error of number 35 slice is 0.108990.
+The error of number 35 slice is 0.108356.
+The error of number 35 slice is 0.107786.
+The error of number 35 slice is 0.107265.
+The error of number 35 slice is 0.106797.
+The error of number 35 slice is 0.106373.
+The error of number 35 slice is 0.105992.
+The error of number 35 slice is 0.105644.
+The error of number 35 slice is 0.105333.
+The error of number 35 slice is 0.105051.
+The error of number 35 slice is 0.104796.
+The error of number 35 slice is 0.104565.
+The error of number 35 slice is 0.104357.
+The error of number 35 slice is 0.104169.
+The error of number 35 slice is 0.104001.
+The error of number 35 slice is 0.103847.
+The error of number 35 slice is 0.103708.
+The error of number 35 slice is 0.103587.
+The error of number 35 slice is 0.103474.
+The error of number 35 slice is 0.103374.
+The error of number 35 slice is 0.103284.
+The error of number 35 slice is 0.103204.
+The error of number 35 slice is 0.103132.
+The error of number 35 slice is 0.103065.
+
+
+ SNR=1.000000
+The PSNR of TF adapt is 114.318804.
+The PSNR of TF adapt is 116.193591.
+The PSNR of TF adapt is 117.951593.
+The PSNR of TF adapt is 119.584363.
+The PSNR of TF adapt is 121.080118.
+The PSNR of TF adapt is 122.415169.
+The PSNR of TF adapt is 123.556974.
+The PSNR of TF adapt is 124.477733.
+The PSNR of TF adapt is 124.735770.
+The PSNR of TF adapt is 124.855112.
+The PSNR of TF adapt is 124.967745.
+The PSNR of TF adapt is 125.074164.
+The PSNR of TF adapt is 125.174812.
+The PSNR of TF adapt is 125.270018.
+The PSNR of TF adapt is 125.359525.
+The PSNR of TF adapt is 125.443692.
+The PSNR of TF adapt is 125.523055.
+The PSNR of TF adapt is 125.597205.
+The PSNR of TF adapt is 125.666735.
+The PSNR of TF adapt is 125.731839.
+The PSNR of TF adapt is 125.792228.
+The PSNR of TF adapt is 125.849085.
+The PSNR of TF adapt is 125.901789.
+The PSNR of TF adapt is 125.950654.
+The PSNR of TF adapt is 125.996099.
+The PSNR of TF adapt is 126.038319.
+The PSNR of TF adapt is 126.077786.
+The PSNR of TF adapt is 126.114390.
+The PSNR of TF adapt is 126.148378.
+The PSNR of TF adapt is 126.179733.
+The PSNR of TF adapt is 126.208927.
+The PSNR of TF adapt is 126.235816.
+The PSNR of TF adapt is 126.260796.
+The PSNR of TF adapt is 126.284048.
+The PSNR of TF adapt is 126.305600.
+The PSNR of TF adapt is 126.325219.
+The PSNR of TF adapt is 126.343407.
+The PSNR of TF adapt is 126.360068.
+The PSNR of TF adapt is 126.375520.
+The PSNR of TF adapt is 126.389732.
+The error of number 35 slice is 0.436510.
+The error of number 35 slice is 0.364529.
+The error of number 35 slice is 0.305173.
+The error of number 35 slice is 0.257356.
+The error of number 35 slice is 0.219540.
+The error of number 35 slice is 0.190298.
+The error of number 35 slice is 0.168435.
+The error of number 35 slice is 0.152855.
+The error of number 35 slice is 0.148829.
+The error of number 35 slice is 0.147021.
+The error of number 35 slice is 0.145345.
+The error of number 35 slice is 0.143793.
+The error of number 35 slice is 0.142352.
+The error of number 35 slice is 0.141015.
+The error of number 35 slice is 0.139781.
+The error of number 35 slice is 0.138643.
+The error of number 35 slice is 0.137589.
+The error of number 35 slice is 0.136623.
+The error of number 35 slice is 0.135734.
+The error of number 35 slice is 0.134916.
+The error of number 35 slice is 0.134173.
+The error of number 35 slice is 0.133484.
+The error of number 35 slice is 0.132859.
+The error of number 35 slice is 0.132290.
+The error of number 35 slice is 0.131769.
+The error of number 35 slice is 0.131294.
+The error of number 35 slice is 0.130856.
+The error of number 35 slice is 0.130456.
+The error of number 35 slice is 0.130090.
+The error of number 35 slice is 0.129759.
+The error of number 35 slice is 0.129454.
+The error of number 35 slice is 0.129178.
+The error of number 35 slice is 0.128924.
+The error of number 35 slice is 0.128690.
+The error of number 35 slice is 0.128475.
+The error of number 35 slice is 0.128283.
+The error of number 35 slice is 0.128108.
+The error of number 35 slice is 0.127949.
+The error of number 35 slice is 0.127803.
+The error of number 35 slice is 0.127670.
+
+
+ SNR=0.250000
+The PSNR of TF adapt is 108.246030.
+The PSNR of TF adapt is 110.074697.
+The PSNR of TF adapt is 111.797595.
+The PSNR of TF adapt is 113.410349.
+The PSNR of TF adapt is 114.917607.
+The PSNR of TF adapt is 116.317878.
+The PSNR of TF adapt is 117.602281.
+The PSNR of TF adapt is 118.762053.
+The PSNR of TF adapt is 119.780407.
+The PSNR of TF adapt is 120.644306.
+The PSNR of TF adapt is 120.775172.
+The PSNR of TF adapt is 120.899520.
+The PSNR of TF adapt is 121.019341.
+The PSNR of TF adapt is 121.134656.
+The PSNR of TF adapt is 121.245822.
+The PSNR of TF adapt is 121.352518.
+The PSNR of TF adapt is 121.454785.
+The PSNR of TF adapt is 121.553137.
+The PSNR of TF adapt is 121.647303.
+The PSNR of TF adapt is 121.737503.
+The PSNR of TF adapt is 121.823570.
+The PSNR of TF adapt is 121.905776.
+The PSNR of TF adapt is 121.984321.
+The PSNR of TF adapt is 122.059217.
+The PSNR of TF adapt is 122.130616.
+The PSNR of TF adapt is 122.198552.
+The PSNR of TF adapt is 122.263144.
+The PSNR of TF adapt is 122.324668.
+The PSNR of TF adapt is 122.383182.
+The PSNR of TF adapt is 122.438560.
+The PSNR of TF adapt is 122.491244.
+The PSNR of TF adapt is 122.541163.
+The PSNR of TF adapt is 122.588338.
+The PSNR of TF adapt is 122.633493.
+The PSNR of TF adapt is 122.675892.
+The PSNR of TF adapt is 122.716076.
+The PSNR of TF adapt is 122.753956.
+The PSNR of TF adapt is 122.789948.
+The PSNR of TF adapt is 122.823804.
+The PSNR of TF adapt is 122.855642.
+The error of number 35 slice is 0.698553.
+The error of number 35 slice is 0.620777.
+The error of number 35 slice is 0.545421.
+The error of number 35 slice is 0.476493.
+The error of number 35 slice is 0.415851.
+The error of number 35 slice is 0.364074.
+The error of number 35 slice is 0.321028.
+The error of number 35 slice is 0.285991.
+The error of number 35 slice is 0.258288.
+The error of number 35 slice is 0.237116.
+The error of number 35 slice is 0.234110.
+The error of number 35 slice is 0.231303.
+The error of number 35 slice is 0.228644.
+The error of number 35 slice is 0.226133.
+The error of number 35 slice is 0.223757.
+The error of number 35 slice is 0.221518.
+The error of number 35 slice is 0.219412.
+The error of number 35 slice is 0.217426.
+The error of number 35 slice is 0.215563.
+The error of number 35 slice is 0.213813.
+The error of number 35 slice is 0.212178.
+The error of number 35 slice is 0.210648.
+The error of number 35 slice is 0.209217.
+The error of number 35 slice is 0.207882.
+The error of number 35 slice is 0.206637.
+The error of number 35 slice is 0.205481.
+The error of number 35 slice is 0.204406.
+The error of number 35 slice is 0.203407.
+The error of number 35 slice is 0.202479.
+The error of number 35 slice is 0.201622.
+The error of number 35 slice is 0.200825.
+The error of number 35 slice is 0.200090.
+The error of number 35 slice is 0.199414.
+The error of number 35 slice is 0.198778.
+The error of number 35 slice is 0.198200.
+The error of number 35 slice is 0.197666.
+The error of number 35 slice is 0.197177.
+The error of number 35 slice is 0.196722.
+The error of number 35 slice is 0.196308.
+The error of number 35 slice is 0.195931.
+
+
+ SNR=0.062500
+The PSNR of TF adapt is 102.212384.
+The PSNR of TF adapt is 104.026508.
+The PSNR of TF adapt is 105.740229.
+The PSNR of TF adapt is 107.347716.
+The PSNR of TF adapt is 108.859942.
+The PSNR of TF adapt is 110.275306.
+The PSNR of TF adapt is 111.598685.
+The PSNR of TF adapt is 112.829910.
+The PSNR of TF adapt is 113.966828.
+The PSNR of TF adapt is 115.005374.
+The PSNR of TF adapt is 115.940038.
+The PSNR of TF adapt is 116.226701.
+The PSNR of TF adapt is 116.366374.
+The PSNR of TF adapt is 116.502656.
+The PSNR of TF adapt is 116.635782.
+The PSNR of TF adapt is 116.765725.
+The PSNR of TF adapt is 116.892405.
+The PSNR of TF adapt is 117.016043.
+The PSNR of TF adapt is 117.136487.
+The PSNR of TF adapt is 117.253921.
+The PSNR of TF adapt is 117.368248.
+The PSNR of TF adapt is 117.479300.
+The PSNR of TF adapt is 117.587449.
+The PSNR of TF adapt is 117.692448.
+The PSNR of TF adapt is 117.794373.
+The PSNR of TF adapt is 117.893429.
+The PSNR of TF adapt is 117.989345.
+The PSNR of TF adapt is 118.082415.
+The PSNR of TF adapt is 118.172450.
+The PSNR of TF adapt is 118.259719.
+The PSNR of TF adapt is 118.344210.
+The PSNR of TF adapt is 118.425830.
+The PSNR of TF adapt is 118.504700.
+The PSNR of TF adapt is 118.580873.
+The PSNR of TF adapt is 118.654602.
+The PSNR of TF adapt is 118.725580.
+The PSNR of TF adapt is 118.793932.
+The PSNR of TF adapt is 118.859956.
+The PSNR of TF adapt is 118.923765.
+The PSNR of TF adapt is 118.985236.
+The error of number 35 slice is 0.890360.
+The error of number 35 slice is 0.846335.
+The error of number 35 slice is 0.794234.
+The error of number 35 slice is 0.736656.
+The error of number 35 slice is 0.676450.
+The error of number 35 slice is 0.616896.
+The error of number 35 slice is 0.560413.
+The error of number 35 slice is 0.508785.
+The error of number 35 slice is 0.463016.
+The error of number 35 slice is 0.423521.
+The error of number 35 slice is 0.390315.
+The error of number 35 slice is 0.380639.
+The error of number 35 slice is 0.376023.
+The error of number 35 slice is 0.371575.
+The error of number 35 slice is 0.367287.
+The error of number 35 slice is 0.363158.
+The error of number 35 slice is 0.359186.
+The error of number 35 slice is 0.355376.
+The error of number 35 slice is 0.351715.
+The error of number 35 slice is 0.348204.
+The error of number 35 slice is 0.344841.
+The error of number 35 slice is 0.341622.
+The error of number 35 slice is 0.338547.
+The error of number 35 slice is 0.335610.
+The error of number 35 slice is 0.332807.
+The error of number 35 slice is 0.330135.
+The error of number 35 slice is 0.327595.
+The error of number 35 slice is 0.325184.
+The error of number 35 slice is 0.322892.
+The error of number 35 slice is 0.320722.
+The error of number 35 slice is 0.318663.
+The error of number 35 slice is 0.316721.
+The error of number 35 slice is 0.314888.
+The error of number 35 slice is 0.313159.
+The error of number 35 slice is 0.311529.
+The error of number 35 slice is 0.309998.
+The error of number 35 slice is 0.308566.
+The error of number 35 slice is 0.307220.
+The error of number 35 slice is 0.305960.
+The error of number 35 slice is 0.304784.
+
+
+ SNR=0.015625
+The PSNR of TF adapt is 96.188520.
+The PSNR of TF adapt is 98.005470.
+The PSNR of TF adapt is 99.717791.
+The PSNR of TF adapt is 101.323314.
+The PSNR of TF adapt is 102.832411.
+The PSNR of TF adapt is 104.250979.
+The PSNR of TF adapt is 105.583248.
+The PSNR of TF adapt is 106.832705.
+The PSNR of TF adapt is 108.002395.
+The PSNR of TF adapt is 109.094804.
+The PSNR of TF adapt is 110.111476.
+The PSNR of TF adapt is 111.053090.
+The PSNR of TF adapt is 111.204534.
+The PSNR of TF adapt is 111.352550.
+The PSNR of TF adapt is 111.498368.
+The PSNR of TF adapt is 111.642012.
+The PSNR of TF adapt is 111.783579.
+The PSNR of TF adapt is 111.922978.
+The PSNR of TF adapt is 112.060196.
+The PSNR of TF adapt is 112.194090.
+The PSNR of TF adapt is 112.327060.
+The PSNR of TF adapt is 112.457905.
+The PSNR of TF adapt is 112.586574.
+The PSNR of TF adapt is 112.713134.
+The PSNR of TF adapt is 112.837544.
+The PSNR of TF adapt is 112.959805.
+The PSNR of TF adapt is 113.079840.
+The PSNR of TF adapt is 113.197793.
+The PSNR of TF adapt is 113.313524.
+The PSNR of TF adapt is 113.427053.
+The PSNR of TF adapt is 113.538453.
+The PSNR of TF adapt is 113.647646.
+The PSNR of TF adapt is 113.754611.
+The PSNR of TF adapt is 113.859478.
+The PSNR of TF adapt is 113.962228.
+The PSNR of TF adapt is 114.062811.
+The PSNR of TF adapt is 114.161407.
+The PSNR of TF adapt is 114.257809.
+The PSNR of TF adapt is 114.352177.
+The PSNR of TF adapt is 114.444589.
+The error of number 35 slice is 0.968881.
+The error of number 35 slice is 0.953915.
+The error of number 35 slice is 0.934058.
+The error of number 35 slice is 0.908935.
+The error of number 35 slice is 0.878485.
+The error of number 35 slice is 0.843208.
+The error of number 35 slice is 0.804122.
+The error of number 35 slice is 0.762627.
+The error of number 35 slice is 0.720277.
+The error of number 35 slice is 0.678543.
+The error of number 35 slice is 0.638671.
+The error of number 35 slice is 0.601663.
+The error of number 35 slice is 0.595802.
+The error of number 35 slice is 0.590046.
+The error of number 35 slice is 0.584390.
+The error of number 35 slice is 0.578839.
+The error of number 35 slice is 0.573401.
+The error of number 35 slice is 0.568075.
+The error of number 35 slice is 0.562857.
+The error of number 35 slice is 0.557806.
+The error of number 35 slice is 0.552814.
+The error of number 35 slice is 0.547935.
+The error of number 35 slice is 0.543172.
+The error of number 35 slice is 0.538526.
+The error of number 35 slice is 0.533999.
+The error of number 35 slice is 0.529589.
+The error of number 35 slice is 0.525294.
+The error of number 35 slice is 0.521120.
+The error of number 35 slice is 0.517061.
+The error of number 35 slice is 0.513118.
+The error of number 35 slice is 0.509295.
+The error of number 35 slice is 0.505589.
+The error of number 35 slice is 0.501997.
+The error of number 35 slice is 0.498526.
+The error of number 35 slice is 0.495170.
+The error of number 35 slice is 0.491933.
+The error of number 35 slice is 0.488810.
+The error of number 35 slice is 0.485800.
+The error of number 35 slice is 0.482902.
+The error of number 35 slice is 0.480112.
+
+ n=   69, projection NO: 10800
+
+
+ SNR=4.000000
+The PSNR of TF adapt is 119.611625.
+The PSNR of TF adapt is 120.931642.
+The PSNR of TF adapt is 122.223903.
+The PSNR of TF adapt is 123.467326.
+The PSNR of TF adapt is 124.657838.
+The PSNR of TF adapt is 125.790585.
+The PSNR of TF adapt is 126.856490.
+The PSNR of TF adapt is 127.841329.
+The PSNR of TF adapt is 128.727080.
+The PSNR of TF adapt is 128.998450.
+The PSNR of TF adapt is 129.128485.
+The PSNR of TF adapt is 129.254743.
+The PSNR of TF adapt is 129.377410.
+The PSNR of TF adapt is 129.496513.
+The PSNR of TF adapt is 129.611849.
+The PSNR of TF adapt is 129.723519.
+The PSNR of TF adapt is 129.831381.
+The PSNR of TF adapt is 129.935449.
+The PSNR of TF adapt is 130.035843.
+The PSNR of TF adapt is 130.132418.
+The PSNR of TF adapt is 130.225238.
+The PSNR of TF adapt is 130.314229.
+The PSNR of TF adapt is 130.399529.
+The PSNR of TF adapt is 130.481155.
+The PSNR of TF adapt is 130.559335.
+The PSNR of TF adapt is 130.633860.
+The PSNR of TF adapt is 130.705001.
+The PSNR of TF adapt is 130.772713.
+The PSNR of TF adapt is 130.837125.
+The PSNR of TF adapt is 130.898333.
+The PSNR of TF adapt is 130.956440.
+The PSNR of TF adapt is 131.011580.
+The PSNR of TF adapt is 131.063731.
+The PSNR of TF adapt is 131.113046.
+The PSNR of TF adapt is 131.159769.
+The PSNR of TF adapt is 131.203868.
+The PSNR of TF adapt is 131.245588.
+The PSNR of TF adapt is 131.284731.
+The PSNR of TF adapt is 131.321638.
+The PSNR of TF adapt is 131.356535.
+The error of number 35 slice is 0.254688.
+The error of number 35 slice is 0.220729.
+The error of number 35 slice is 0.191536.
+The error of number 35 slice is 0.166883.
+The error of number 35 slice is 0.146142.
+The error of number 35 slice is 0.128748.
+The error of number 35 slice is 0.114256.
+The error of number 35 slice is 0.102325.
+The error of number 35 slice is 0.092686.
+The error of number 35 slice is 0.089928.
+The error of number 35 slice is 0.088637.
+The error of number 35 slice is 0.087404.
+The error of number 35 slice is 0.086224.
+The error of number 35 slice is 0.085095.
+The error of number 35 slice is 0.084019.
+The error of number 35 slice is 0.082992.
+The error of number 35 slice is 0.082013.
+The error of number 35 slice is 0.081082.
+The error of number 35 slice is 0.080197.
+The error of number 35 slice is 0.079357.
+The error of number 35 slice is 0.078560.
+The error of number 35 slice is 0.077806.
+The error of number 35 slice is 0.077092.
+The error of number 35 slice is 0.076418.
+The error of number 35 slice is 0.075781.
+The error of number 35 slice is 0.075181.
+The error of number 35 slice is 0.074615.
+The error of number 35 slice is 0.074083.
+The error of number 35 slice is 0.073582.
+The error of number 35 slice is 0.073112.
+The error of number 35 slice is 0.072671.
+The error of number 35 slice is 0.072257.
+The error of number 35 slice is 0.071870.
+The error of number 35 slice is 0.071508.
+The error of number 35 slice is 0.071168.
+The error of number 35 slice is 0.070851.
+The error of number 35 slice is 0.070554.
+The error of number 35 slice is 0.070278.
+The error of number 35 slice is 0.070021.
+The error of number 35 slice is 0.069779.
+
+
+ SNR=2.000000
+The PSNR of TF adapt is 116.462993.
+The PSNR of TF adapt is 117.648572.
+The PSNR of TF adapt is 118.811902.
+The PSNR of TF adapt is 119.934869.
+The PSNR of TF adapt is 121.015618.
+The PSNR of TF adapt is 122.053696.
+The PSNR of TF adapt is 123.047760.
+The PSNR of TF adapt is 123.994676.
+The PSNR of TF adapt is 124.889034.
+The PSNR of TF adapt is 125.589159.
+The PSNR of TF adapt is 125.724834.
+The PSNR of TF adapt is 125.857413.
+The PSNR of TF adapt is 125.987944.
+The PSNR of TF adapt is 126.116506.
+The PSNR of TF adapt is 126.242937.
+The PSNR of TF adapt is 126.367299.
+The PSNR of TF adapt is 126.489474.
+The PSNR of TF adapt is 126.609403.
+The PSNR of TF adapt is 126.727109.
+The PSNR of TF adapt is 126.842534.
+The PSNR of TF adapt is 126.955566.
+The PSNR of TF adapt is 127.066218.
+The PSNR of TF adapt is 127.174459.
+The PSNR of TF adapt is 127.280231.
+The PSNR of TF adapt is 127.383483.
+The PSNR of TF adapt is 127.484293.
+The PSNR of TF adapt is 127.582442.
+The PSNR of TF adapt is 127.678191.
+The PSNR of TF adapt is 127.771240.
+The PSNR of TF adapt is 127.861744.
+The PSNR of TF adapt is 127.949595.
+The PSNR of TF adapt is 128.034877.
+The PSNR of TF adapt is 128.117588.
+The PSNR of TF adapt is 128.197721.
+The PSNR of TF adapt is 128.275248.
+The PSNR of TF adapt is 128.350252.
+The PSNR of TF adapt is 128.422811.
+The PSNR of TF adapt is 128.492852.
+The PSNR of TF adapt is 128.560331.
+The PSNR of TF adapt is 128.625398.
+The error of number 35 slice is 0.353940.
+The error of number 35 slice is 0.313574.
+The error of number 35 slice is 0.277625.
+The error of number 35 slice is 0.246276.
+The error of number 35 slice is 0.219096.
+The error of number 35 slice is 0.195597.
+The error of number 35 slice is 0.175329.
+The error of number 35 slice is 0.157906.
+The error of number 35 slice is 0.143008.
+The error of number 35 slice is 0.132329.
+The error of number 35 slice is 0.130355.
+The error of number 35 slice is 0.128454.
+The error of number 35 slice is 0.126609.
+The error of number 35 slice is 0.124820.
+The error of number 35 slice is 0.123085.
+The error of number 35 slice is 0.121404.
+The error of number 35 slice is 0.119775.
+The error of number 35 slice is 0.118198.
+The error of number 35 slice is 0.116672.
+The error of number 35 slice is 0.115196.
+The error of number 35 slice is 0.113770.
+The error of number 35 slice is 0.112392.
+The error of number 35 slice is 0.111061.
+The error of number 35 slice is 0.109778.
+The error of number 35 slice is 0.108541.
+The error of number 35 slice is 0.107349.
+The error of number 35 slice is 0.106202.
+The error of number 35 slice is 0.105098.
+The error of number 35 slice is 0.104037.
+The error of number 35 slice is 0.103017.
+The error of number 35 slice is 0.102039.
+The error of number 35 slice is 0.101100.
+The error of number 35 slice is 0.100200.
+The error of number 35 slice is 0.099339.
+The error of number 35 slice is 0.098514.
+The error of number 35 slice is 0.097725.
+The error of number 35 slice is 0.096970.
+The error of number 35 slice is 0.096249.
+The error of number 35 slice is 0.095562.
+The error of number 35 slice is 0.094906.
+
+
+ SNR=1.000000
+The PSNR of TF adapt is 113.383491.
+The PSNR of TF adapt is 114.504069.
+The PSNR of TF adapt is 115.602801.
+The PSNR of TF adapt is 116.664121.
+The PSNR of TF adapt is 117.685997.
+The PSNR of TF adapt is 118.672227.
+The PSNR of TF adapt is 119.621764.
+The PSNR of TF adapt is 120.534413.
+The PSNR of TF adapt is 121.409105.
+The PSNR of TF adapt is 121.970620.
+The PSNR of TF adapt is 122.108805.
+The PSNR of TF adapt is 122.244937.
+The PSNR of TF adapt is 122.379830.
+The PSNR of TF adapt is 122.513451.
+The PSNR of TF adapt is 122.645833.
+The PSNR of TF adapt is 122.776944.
+The PSNR of TF adapt is 122.906776.
+The PSNR of TF adapt is 123.035262.
+The PSNR of TF adapt is 123.162367.
+The PSNR of TF adapt is 123.288110.
+The PSNR of TF adapt is 123.412424.
+The PSNR of TF adapt is 123.535320.
+The PSNR of TF adapt is 123.656729.
+The PSNR of TF adapt is 123.776686.
+The PSNR of TF adapt is 123.895128.
+The PSNR of TF adapt is 124.011972.
+The PSNR of TF adapt is 124.127325.
+The PSNR of TF adapt is 124.240996.
+The PSNR of TF adapt is 124.353103.
+The PSNR of TF adapt is 124.463500.
+The PSNR of TF adapt is 124.572176.
+The PSNR of TF adapt is 124.679139.
+The PSNR of TF adapt is 124.784344.
+The PSNR of TF adapt is 124.887771.
+The PSNR of TF adapt is 124.989412.
+The PSNR of TF adapt is 125.089243.
+The PSNR of TF adapt is 125.187206.
+The PSNR of TF adapt is 125.283286.
+The PSNR of TF adapt is 125.377533.
+The PSNR of TF adapt is 125.469799.
+The error of number 35 slice is 0.474794.
+The error of number 35 slice is 0.428522.
+The error of number 35 slice is 0.385752.
+The error of number 35 slice is 0.347202.
+The error of number 35 slice is 0.312842.
+The error of number 35 slice is 0.282300.
+The error of number 35 slice is 0.255309.
+The error of number 35 slice is 0.231534.
+The error of number 35 slice is 0.210660.
+The error of number 35 slice is 0.198199.
+The error of number 35 slice is 0.195242.
+The error of number 35 slice is 0.192370.
+The error of number 35 slice is 0.189564.
+The error of number 35 slice is 0.186823.
+The error of number 35 slice is 0.184146.
+The error of number 35 slice is 0.181531.
+The error of number 35 slice is 0.178977.
+The error of number 35 slice is 0.176484.
+The error of number 35 slice is 0.174052.
+The error of number 35 slice is 0.171678.
+The error of number 35 slice is 0.169362.
+The error of number 35 slice is 0.167104.
+The error of number 35 slice is 0.164902.
+The error of number 35 slice is 0.162755.
+The error of number 35 slice is 0.160663.
+The error of number 35 slice is 0.158626.
+The error of number 35 slice is 0.156642.
+The error of number 35 slice is 0.154710.
+The error of number 35 slice is 0.152830.
+The error of number 35 slice is 0.151000.
+The error of number 35 slice is 0.149221.
+The error of number 35 slice is 0.147492.
+The error of number 35 slice is 0.145812.
+The error of number 35 slice is 0.144180.
+The error of number 35 slice is 0.142595.
+The error of number 35 slice is 0.141057.
+The error of number 35 slice is 0.139565.
+The error of number 35 slice is 0.138118.
+The error of number 35 slice is 0.136716.
+The error of number 35 slice is 0.135358.
+
+
+ SNR=0.250000
+The PSNR of TF adapt is 107.310796.
+The PSNR of TF adapt is 108.378480.
+The PSNR of TF adapt is 109.431496.
+The PSNR of TF adapt is 110.446688.
+The PSNR of TF adapt is 111.426755.
+The PSNR of TF adapt is 112.372770.
+The PSNR of TF adapt is 113.286187.
+The PSNR of TF adapt is 114.168387.
+The PSNR of TF adapt is 115.020479.
+The PSNR of TF adapt is 115.160633.
+The PSNR of TF adapt is 115.298921.
+The PSNR of TF adapt is 115.436397.
+The PSNR of TF adapt is 115.573059.
+The PSNR of TF adapt is 115.708914.
+The PSNR of TF adapt is 115.842894.
+The PSNR of TF adapt is 115.977086.
+The PSNR of TF adapt is 116.110524.
+The PSNR of TF adapt is 116.243135.
+The PSNR of TF adapt is 116.374948.
+The PSNR of TF adapt is 116.505936.
+The PSNR of TF adapt is 116.636093.
+The PSNR of TF adapt is 116.765429.
+The PSNR of TF adapt is 116.893941.
+The PSNR of TF adapt is 117.021618.
+The PSNR of TF adapt is 117.148452.
+The PSNR of TF adapt is 117.274458.
+The PSNR of TF adapt is 117.399635.
+The PSNR of TF adapt is 117.523944.
+The PSNR of TF adapt is 117.647391.
+The PSNR of TF adapt is 117.769968.
+The PSNR of TF adapt is 117.891682.
+The PSNR of TF adapt is 118.012525.
+The PSNR of TF adapt is 118.132475.
+The PSNR of TF adapt is 118.251525.
+The PSNR of TF adapt is 118.369660.
+The PSNR of TF adapt is 118.486899.
+The PSNR of TF adapt is 118.603208.
+The PSNR of TF adapt is 118.718595.
+The PSNR of TF adapt is 118.833032.
+The PSNR of TF adapt is 118.946540.
+The error of number 35 slice is 0.735498.
+The error of number 35 slice is 0.692591.
+The error of number 35 slice is 0.648045.
+The error of number 35 slice is 0.603785.
+The error of number 35 slice is 0.560631.
+The error of number 35 slice is 0.519280.
+The error of number 35 slice is 0.480205.
+The error of number 35 slice is 0.443695.
+The error of number 35 slice is 0.409889.
+The error of number 35 slice is 0.404483.
+The error of number 35 slice is 0.399193.
+The error of number 35 slice is 0.393980.
+The error of number 35 slice is 0.388841.
+The error of number 35 slice is 0.383780.
+The error of number 35 slice is 0.378836.
+The error of number 35 slice is 0.373926.
+The error of number 35 slice is 0.369087.
+The error of number 35 slice is 0.364323.
+The error of number 35 slice is 0.359634.
+The error of number 35 slice is 0.355017.
+The error of number 35 slice is 0.350474.
+The error of number 35 slice is 0.346004.
+The error of number 35 slice is 0.341607.
+The error of number 35 slice is 0.337278.
+The error of number 35 slice is 0.333022.
+The error of number 35 slice is 0.328838.
+The error of number 35 slice is 0.324722.
+The error of number 35 slice is 0.320676.
+The error of number 35 slice is 0.316699.
+The error of number 35 slice is 0.312790.
+The error of number 35 slice is 0.308950.
+The error of number 35 slice is 0.305176.
+The error of number 35 slice is 0.301468.
+The error of number 35 slice is 0.297826.
+The error of number 35 slice is 0.294249.
+The error of number 35 slice is 0.290737.
+The error of number 35 slice is 0.287289.
+The error of number 35 slice is 0.283904.
+The error of number 35 slice is 0.280581.
+The error of number 35 slice is 0.277322.
+
+
+ SNR=0.062500
+The PSNR of TF adapt is 101.276941.
+The PSNR of TF adapt is 102.332219.
+The PSNR of TF adapt is 103.370507.
+The PSNR of TF adapt is 104.374238.
+The PSNR of TF adapt is 105.343476.
+The PSNR of TF adapt is 106.282053.
+The PSNR of TF adapt is 107.186216.
+The PSNR of TF adapt is 108.060381.
+The PSNR of TF adapt is 108.906038.
+The PSNR of TF adapt is 109.045522.
+The PSNR of TF adapt is 109.183013.
+The PSNR of TF adapt is 109.319754.
+The PSNR of TF adapt is 109.455755.
+The PSNR of TF adapt is 109.591030.
+The PSNR of TF adapt is 109.725578.
+The PSNR of TF adapt is 109.859392.
+The PSNR of TF adapt is 109.992484.
+The PSNR of TF adapt is 110.124852.
+The PSNR of TF adapt is 110.256513.
+The PSNR of TF adapt is 110.387453.
+The PSNR of TF adapt is 110.517689.
+The PSNR of TF adapt is 110.647204.
+The PSNR of TF adapt is 110.776021.
+The PSNR of TF adapt is 110.904128.
+The PSNR of TF adapt is 111.031541.
+The PSNR of TF adapt is 111.158240.
+The PSNR of TF adapt is 111.284239.
+The PSNR of TF adapt is 111.409540.
+The PSNR of TF adapt is 111.534145.
+The PSNR of TF adapt is 111.658056.
+The PSNR of TF adapt is 111.781261.
+The PSNR of TF adapt is 111.903791.
+The PSNR of TF adapt is 112.025620.
+The PSNR of TF adapt is 112.146775.
+The PSNR of TF adapt is 112.267205.
+The PSNR of TF adapt is 112.386946.
+The PSNR of TF adapt is 112.505990.
+The PSNR of TF adapt is 112.624338.
+The PSNR of TF adapt is 112.741999.
+The PSNR of TF adapt is 112.858974.
+The error of number 35 slice is 0.908567.
+The error of number 35 slice is 0.887546.
+The error of number 35 slice is 0.863242.
+The error of number 35 slice is 0.836120.
+The error of number 35 slice is 0.806509.
+The error of number 35 slice is 0.774739.
+The error of number 35 slice is 0.741492.
+The error of number 35 slice is 0.707217.
+The error of number 35 slice is 0.672459.
+The error of number 35 slice is 0.666604.
+The error of number 35 slice is 0.660806.
+The error of number 35 slice is 0.655013.
+The error of number 35 slice is 0.649229.
+The error of number 35 slice is 0.643454.
+The error of number 35 slice is 0.637692.
+The error of number 35 slice is 0.631944.
+The error of number 35 slice is 0.626213.
+The error of number 35 slice is 0.620500.
+The error of number 35 slice is 0.614808.
+The error of number 35 slice is 0.609137.
+The error of number 35 slice is 0.603490.
+The error of number 35 slice is 0.597868.
+The error of number 35 slice is 0.592275.
+The error of number 35 slice is 0.586712.
+The error of number 35 slice is 0.581178.
+The error of number 35 slice is 0.575677.
+The error of number 35 slice is 0.570210.
+The error of number 35 slice is 0.564778.
+The error of number 35 slice is 0.559382.
+The error of number 35 slice is 0.554025.
+The error of number 35 slice is 0.548706.
+The error of number 35 slice is 0.543426.
+The error of number 35 slice is 0.538190.
+The error of number 35 slice is 0.532995.
+The error of number 35 slice is 0.527844.
+The error of number 35 slice is 0.522736.
+The error of number 35 slice is 0.517673.
+The error of number 35 slice is 0.512658.
+The error of number 35 slice is 0.507688.
+The error of number 35 slice is 0.502767.
+
+
+ SNR=0.015625
+The PSNR of TF adapt is 95.252819.
+The PSNR of TF adapt is 96.310442.
+The PSNR of TF adapt is 97.345638.
+The PSNR of TF adapt is 98.346264.
+The PSNR of TF adapt is 99.313791.
+The PSNR of TF adapt is 100.246890.
+The PSNR of TF adapt is 101.148556.
+The PSNR of TF adapt is 102.020529.
+The PSNR of TF adapt is 102.864448.
+The PSNR of TF adapt is 103.003325.
+The PSNR of TF adapt is 103.140598.
+The PSNR of TF adapt is 103.277145.
+The PSNR of TF adapt is 103.412971.
+The PSNR of TF adapt is 103.548079.
+The PSNR of TF adapt is 103.682475.
+The PSNR of TF adapt is 103.816171.
+The PSNR of TF adapt is 103.949167.
+The PSNR of TF adapt is 104.081475.
+The PSNR of TF adapt is 104.213083.
+The PSNR of TF adapt is 104.344005.
+The PSNR of TF adapt is 104.474244.
+The PSNR of TF adapt is 104.603808.
+The PSNR of TF adapt is 104.732692.
+The PSNR of TF adapt is 104.860904.
+The PSNR of TF adapt is 104.988446.
+The PSNR of TF adapt is 105.115320.
+The PSNR of TF adapt is 105.241530.
+The PSNR of TF adapt is 105.367085.
+The PSNR of TF adapt is 105.491978.
+The PSNR of TF adapt is 105.616227.
+The PSNR of TF adapt is 105.739825.
+The PSNR of TF adapt is 105.862781.
+The PSNR of TF adapt is 105.985079.
+The PSNR of TF adapt is 106.106744.
+The PSNR of TF adapt is 106.227762.
+The PSNR of TF adapt is 106.348142.
+The PSNR of TF adapt is 106.467887.
+The PSNR of TF adapt is 106.586995.
+The PSNR of TF adapt is 106.705469.
+The PSNR of TF adapt is 106.823308.
+The error of number 35 slice is 0.974622.
+The error of number 35 slice is 0.967967.
+The error of number 35 slice is 0.959888.
+The error of number 35 slice is 0.950305.
+The error of number 35 slice is 0.939083.
+The error of number 35 slice is 0.926160.
+The error of number 35 slice is 0.911456.
+The error of number 35 slice is 0.894948.
+The error of number 35 slice is 0.876663.
+The error of number 35 slice is 0.873425.
+The error of number 35 slice is 0.870163.
+The error of number 35 slice is 0.866854.
+The error of number 35 slice is 0.863500.
+The error of number 35 slice is 0.860101.
+The error of number 35 slice is 0.856657.
+The error of number 35 slice is 0.853170.
+The error of number 35 slice is 0.849640.
+The error of number 35 slice is 0.846069.
+The error of number 35 slice is 0.842455.
+The error of number 35 slice is 0.838801.
+The error of number 35 slice is 0.835108.
+The error of number 35 slice is 0.831376.
+The error of number 35 slice is 0.827607.
+The error of number 35 slice is 0.823802.
+The error of number 35 slice is 0.819962.
+The error of number 35 slice is 0.816087.
+The error of number 35 slice is 0.812180.
+The error of number 35 slice is 0.808240.
+The error of number 35 slice is 0.804270.
+The error of number 35 slice is 0.800270.
+The error of number 35 slice is 0.796242.
+The error of number 35 slice is 0.792187.
+The error of number 35 slice is 0.788105.
+The error of number 35 slice is 0.784000.
+The error of number 35 slice is 0.779871.
+The error of number 35 slice is 0.775721.
+The error of number 35 slice is 0.771551.
+The error of number 35 slice is 0.767363.
+The error of number 35 slice is 0.763155.
+The error of number 35 slice is 0.758931.
+
+ n=   69, projection NO:   600
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 0.676733.
+The RE of Tikadapt: 0.155664   
+The RE of TV adapt is 0.059973.
+The error of number 35 slice is 0.165003.
+The error of number 35 slice is 0.123492.
+The error of number 35 slice is 0.089238.
+The error of number 35 slice is 0.073055.
+The error of number 35 slice is 0.070460.
+The error of number 35 slice is 0.068423.
+The error of number 35 slice is 0.064967.
+The error of number 35 slice is 0.060417.
+The error of number 35 slice is 0.058329.
+The error of number 35 slice is 0.058251.
+The error of number 35 slice is 0.059852.
+The error of number 35 slice is 0.061863.
+
+
+ SNR=2.000000
+The RE of tikfix reconstruction is 1.386995.
+The RE of Tikadapt: 0.201995   
+The RE of TV adapt is 0.075507.
+The error of number 35 slice is 0.208911.
+The error of number 35 slice is 0.159363.
+The error of number 35 slice is 0.116414.
+The error of number 35 slice is 0.095199.
+The error of number 35 slice is 0.093708.
+The error of number 35 slice is 0.091428.
+The error of number 35 slice is 0.085045.
+The error of number 35 slice is 0.079270.
+The error of number 35 slice is 0.075067.
+The error of number 35 slice is 0.074685.
+The error of number 35 slice is 0.076238.
+The error of number 35 slice is 0.078645.
+
+
+ SNR=1.000000
+The RE of tikfix reconstruction is 2.834719.
+The RE of Tikadapt: 0.225956   
+The RE of TV adapt is 0.092840.
+The error of number 35 slice is 0.268966.
+The error of number 35 slice is 0.220907.
+The error of number 35 slice is 0.172080.
+The error of number 35 slice is 0.129756.
+The error of number 35 slice is 0.116454.
+The error of number 35 slice is 0.124620.
+The error of number 35 slice is 0.122492.
+The error of number 35 slice is 0.110820.
+The error of number 35 slice is 0.100480.
+The error of number 35 slice is 0.094953.
+The error of number 35 slice is 0.094779.
+The error of number 35 slice is 0.097578.
+
+
+ SNR=0.250000
+The RE of tikfix reconstruction is 8.467520.
+The RE of Tikadapt: 0.328088   
+The RE of TV adapt is 0.144553.
+The error of number 35 slice is 0.386132.
+The error of number 35 slice is 0.330672.
+The error of number 35 slice is 0.263492.
+The error of number 35 slice is 0.234946.
+The error of number 35 slice is 0.187007.
+The error of number 35 slice is 0.171614.
+The error of number 35 slice is 0.166331.
+The error of number 35 slice is 0.165788.
+The error of number 35 slice is 0.165820.
+The error of number 35 slice is 0.161569.
+The error of number 35 slice is 0.157500.
+The error of number 35 slice is 0.157116.
+
+
+ SNR=0.062500
+The RE of tikfix reconstruction is 19.937836.
+The RE of Tikadapt: 0.544587   
+The RE of TV adapt is 0.217205.
+The error of number 35 slice is 0.568253.
+The error of number 35 slice is 0.510419.
+The error of number 35 slice is 0.460514.
+The error of number 35 slice is 0.453032.
+The error of number 35 slice is 0.351634.
+The error of number 35 slice is 0.329404.
+The error of number 35 slice is 0.314060.
+The error of number 35 slice is 0.277131.
+The error of number 35 slice is 0.263295.
+The error of number 35 slice is 0.250923.
+The error of number 35 slice is 0.240791.
+The error of number 35 slice is 0.234250.
+
+
+ SNR=0.015625
+The RE of tikfix reconstruction is 42.337738.
+The RE of Tikadapt: 0.733218   
+The RE of TV adapt is 0.365011.
+The error of number 35 slice is 0.791189.
+The error of number 35 slice is 0.728275.
+The error of number 35 slice is 0.642206.
+The error of number 35 slice is 0.592104.
+The error of number 35 slice is 0.660801.
+The error of number 35 slice is 0.532243.
+The error of number 35 slice is 0.507878.
+The error of number 35 slice is 0.474132.
+The error of number 35 slice is 0.476468.
+The error of number 35 slice is 0.412940.
+The error of number 35 slice is 0.396034.
+The error of number 35 slice is 0.379023.
+
+ n=   69, projection NO:  1800
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 0.761655.
+The RE of Tikadapt: 0.174514   
+The RE of TV adapt is 0.048972.
+The error of number 35 slice is 0.224263.
+The error of number 35 slice is 0.142366.
+The error of number 35 slice is 0.147620.
+The error of number 35 slice is 0.103791.
+The error of number 35 slice is 0.083342.
+The error of number 35 slice is 0.100468.
+The error of number 35 slice is 0.111092.
+The error of number 35 slice is 0.103954.
+The error of number 35 slice is 0.085816.
+The error of number 35 slice is 0.066687.
+The error of number 35 slice is 0.054258.
+The error of number 35 slice is 0.049523.
+
+
+ SNR=2.000000
+The RE of tikfix reconstruction is 1.732616.
+The RE of Tikadapt: 0.481875   
+The RE of TV adapt is 0.068356.
+The error of number 35 slice is 0.312978.
+The error of number 35 slice is 0.198151.
+The error of number 35 slice is 0.211078.
+The error of number 35 slice is 0.150395.
+The error of number 35 slice is 0.119203.
+The error of number 35 slice is 0.141544.
+The error of number 35 slice is 0.156309.
+The error of number 35 slice is 0.146560.
+The error of number 35 slice is 0.121355.
+The error of number 35 slice is 0.094450.
+The error of number 35 slice is 0.076442.
+The error of number 35 slice is 0.069052.
+
+
+ SNR=1.000000
+The RE of tikfix reconstruction is 3.374443.
+The RE of Tikadapt: 0.512206   
+The RE of TV adapt is 0.096306.
+The error of number 35 slice is 0.424690.
+The error of number 35 slice is 0.274215.
+The error of number 35 slice is 0.295208.
+The error of number 35 slice is 0.213481.
+The error of number 35 slice is 0.168751.
+The error of number 35 slice is 0.198356.
+The error of number 35 slice is 0.218490.
+The error of number 35 slice is 0.205258.
+The error of number 35 slice is 0.170644.
+The error of number 35 slice is 0.133268.
+The error of number 35 slice is 0.107839.
+The error of number 35 slice is 0.097086.
+
+
+ SNR=0.250000
+The RE of tikfix reconstruction is 8.672527.
+The RE of Tikadapt: 0.250102   
+The RE of TV adapt is 0.213252.
+The error of number 35 slice is 0.686319.
+The error of number 35 slice is 0.495007.
+The error of number 35 slice is 0.248525.
+The error of number 35 slice is 0.429307.
+The error of number 35 slice is 0.274396.
+The error of number 35 slice is 0.303938.
+The error of number 35 slice is 0.285883.
+The error of number 35 slice is 0.267349.
+The error of number 35 slice is 0.270000.
+The error of number 35 slice is 0.264899.
+The error of number 35 slice is 0.242568.
+The error of number 35 slice is 0.210971.
+
+
+ SNR=0.062500
+The RE of tikfix reconstruction is 18.449696.
+The RE of Tikadapt: 0.471985   
+The RE of TV adapt is 0.426822.
+The error of number 35 slice is 0.884279.
+The error of number 35 slice is 0.752150.
+The error of number 35 slice is 0.443288.
+The error of number 35 slice is 0.690681.
+The error of number 35 slice is 0.486601.
+The error of number 35 slice is 0.539433.
+The error of number 35 slice is 0.513797.
+The error of number 35 slice is 0.486111.
+The error of number 35 slice is 0.489920.
+The error of number 35 slice is 0.482473.
+The error of number 35 slice is 0.448316.
+The error of number 35 slice is 0.397283.
+
+
+ SNR=0.015625
+The RE of tikfix reconstruction is 37.454357.
+The RE of Tikadapt: 0.652174   
+The RE of TV adapt is 0.853769.
+The error of number 35 slice is 0.967163.
+The error of number 35 slice is 0.916620.
+The error of number 35 slice is 0.701204.
+The error of number 35 slice is 0.886896.
+The error of number 35 slice is 0.743443.
+The error of number 35 slice is 0.789778.
+The error of number 35 slice is 0.769157.
+The error of number 35 slice is 0.745211.
+The error of number 35 slice is 0.748563.
+The error of number 35 slice is 0.741957.
+The error of number 35 slice is 0.709830.
+The error of number 35 slice is 0.656298.
+
+ n=   69, projection NO:  5400
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 1.567264.
+The RE of Tikadapt: 0.566288   
+The RE of TV adapt is 0.071274.
+The error of number 35 slice is 0.312546.
+The error of number 35 slice is 0.316947.
+The error of number 35 slice is 0.229590.
+The error of number 35 slice is 0.145234.
+The error of number 35 slice is 0.149277.
+The error of number 35 slice is 0.179998.
+The error of number 35 slice is 0.175537.
+The error of number 35 slice is 0.142541.
+The error of number 35 slice is 0.105260.
+The error of number 35 slice is 0.085013.
+The error of number 35 slice is 0.076284.
+The error of number 35 slice is 0.071172.
+
+
+ SNR=2.000000
+The RE of tikfix reconstruction is 3.018724.
+The RE of Tikadapt: 0.166868   
+The RE of TV adapt is 0.099822.
+The error of number 35 slice is 0.427492.
+The error of number 35 slice is 0.235759.
+The error of number 35 slice is 0.335934.
+The error of number 35 slice is 0.278115.
+The error of number 35 slice is 0.199834.
+The error of number 35 slice is 0.190043.
+The error of number 35 slice is 0.216435.
+The error of number 35 slice is 0.212311.
+The error of number 35 slice is 0.178246.
+The error of number 35 slice is 0.137172.
+The error of number 35 slice is 0.111604.
+The error of number 35 slice is 0.099377.
+
+
+ SNR=1.000000
+The RE of tikfix reconstruction is 4.978375.
+The RE of Tikadapt: 0.738659   
+The RE of TV adapt is 0.140804.
+The error of number 35 slice is 0.559003.
+The error of number 35 slice is 0.325285.
+The error of number 35 slice is 0.455700.
+The error of number 35 slice is 0.386193.
+The error of number 35 slice is 0.283325.
+The error of number 35 slice is 0.265594.
+The error of number 35 slice is 0.298616.
+The error of number 35 slice is 0.293444.
+The error of number 35 slice is 0.248790.
+The error of number 35 slice is 0.193762.
+The error of number 35 slice is 0.155482.
+The error of number 35 slice is 0.139482.
+
+
+ SNR=0.250000
+The RE of tikfix reconstruction is 11.130734.
+The RE of Tikadapt: 0.193128   
+The RE of TV adapt is 0.291494.
+The error of number 35 slice is 0.804953.
+The error of number 35 slice is 0.567609.
+The error of number 35 slice is 0.719313.
+The error of number 35 slice is 0.299286.
+The error of number 35 slice is 0.509696.
+The error of number 35 slice is 0.491361.
+The error of number 35 slice is 0.434088.
+The error of number 35 slice is 0.414597.
+The error of number 35 slice is 0.404194.
+The error of number 35 slice is 0.368899.
+The error of number 35 slice is 0.321333.
+The error of number 35 slice is 0.279925.
+
+
+ SNR=0.062500
+The RE of tikfix reconstruction is 22.825274.
+The RE of Tikadapt: 0.413605   
+The RE of TV adapt is 0.687250.
+The error of number 35 slice is 0.938492.
+The error of number 35 slice is 0.809713.
+The error of number 35 slice is 0.436456.
+The error of number 35 slice is 0.856039.
+The error of number 35 slice is 0.523130.
+The error of number 35 slice is 0.761374.
+The error of number 35 slice is 0.750900.
+The error of number 35 slice is 0.665307.
+The error of number 35 slice is 0.615120.
+The error of number 35 slice is 0.627648.
+The error of number 35 slice is 0.614085.
+The error of number 35 slice is 0.566574.
+
+
+ SNR=0.015625
+The RE of tikfix reconstruction is 45.822929.
+The RE of Tikadapt: 0.739751   
+The RE of TV adapt is 1.375462.
+The error of number 35 slice is 0.983520.
+The error of number 35 slice is 0.940230.
+The error of number 35 slice is 0.693309.
+The error of number 35 slice is 0.957410.
+The error of number 35 slice is 0.773774.
+The error of number 35 slice is 0.920294.
+The error of number 35 slice is 0.915671.
+The error of number 35 slice is 0.872495.
+The error of number 35 slice is 0.842206.
+The error of number 35 slice is 0.850004.
+The error of number 35 slice is 0.841465.
+The error of number 35 slice is 0.809060.
+
+ n=   69, projection NO: 10800
+
+
+ SNR=4.000000
+The RE of tikfix reconstruction is 2.638111.
+The RE of Tikadapt: 0.156562   
+The RE of TV adapt is 0.080271.
+The error of number 35 slice is 0.343586.
+The error of number 35 slice is 0.364232.
+The error of number 35 slice is 0.285646.
+The error of number 35 slice is 0.189261.
+The error of number 35 slice is 0.161386.
+The error of number 35 slice is 0.186739.
+The error of number 35 slice is 0.187562.
+The error of number 35 slice is 0.158691.
+The error of number 35 slice is 0.122102.
+The error of number 35 slice is 0.099890.
+The error of number 35 slice is 0.088225.
+The error of number 35 slice is 0.080024.
+
+
+ SNR=2.000000
+The RE of tikfix reconstruction is 4.406755.
+The RE of Tikadapt: 0.358040   
+The RE of TV adapt is 0.123606.
+The error of number 35 slice is 0.465029.
+The error of number 35 slice is 0.493388.
+The error of number 35 slice is 0.402568.
+The error of number 35 slice is 0.278392.
+The error of number 35 slice is 0.230412.
+The error of number 35 slice is 0.248771.
+The error of number 35 slice is 0.242668.
+The error of number 35 slice is 0.208996.
+The error of number 35 slice is 0.170427.
+The error of number 35 slice is 0.144482.
+The error of number 35 slice is 0.131473.
+The error of number 35 slice is 0.122675.
+
+
+ SNR=1.000000
+The RE of tikfix reconstruction is 6.758278.
+The RE of Tikadapt: 0.268293   
+The RE of TV adapt is 0.189578.
+The error of number 35 slice is 0.599258.
+The error of number 35 slice is 0.331581.
+The error of number 35 slice is 0.522409.
+The error of number 35 slice is 0.479538.
+The error of number 35 slice is 0.369936.
+The error of number 35 slice is 0.298625.
+The error of number 35 slice is 0.300319.
+The error of number 35 slice is 0.292421.
+The error of number 35 slice is 0.263486.
+The error of number 35 slice is 0.229116.
+The error of number 35 slice is 0.202822.
+The error of number 35 slice is 0.186264.
+
+
+ SNR=0.250000
+The RE of tikfix reconstruction is 14.312860.
+The RE of Tikadapt: 0.175204   
+The RE of TV adapt is 0.389021.
+The error of number 35 slice is 0.833088.
+The error of number 35 slice is 0.575913.
+The error of number 35 slice is 0.778310.
+The error of number 35 slice is 0.743878.
+The error of number 35 slice is 0.632641.
+The error of number 35 slice is 0.537367.
+The error of number 35 slice is 0.534960.
+The error of number 35 slice is 0.523588.
+The error of number 35 slice is 0.483200.
+The error of number 35 slice is 0.432025.
+The error of number 35 slice is 0.390260.
+The error of number 35 slice is 0.362592.
+
+
+ SNR=0.062500
+The RE of tikfix reconstruction is 28.936792.
+The RE of Tikadapt: 0.387129   
+The RE of TV adapt is 0.894062.
+The error of number 35 slice is 0.949247.
+The error of number 35 slice is 0.815708.
+The error of number 35 slice is 0.464907.
+The error of number 35 slice is 0.897594.
+The error of number 35 slice is 0.492480.
+The error of number 35 slice is 0.845262.
+The error of number 35 slice is 0.854801.
+The error of number 35 slice is 0.796101.
+The error of number 35 slice is 0.721115.
+The error of number 35 slice is 0.702172.
+The error of number 35 slice is 0.691762.
+The error of number 35 slice is 0.666653.
+
+
+ SNR=0.015625
+The RE of tikfix reconstruction is 57.841400.
+The RE of Tikadapt: 0.658813   
+The RE of TV adapt is 1.790342.
+The error of number 35 slice is 0.986581.
+The error of number 35 slice is 0.942581.
+The error of number 35 slice is 0.722086.
+The error of number 35 slice is 0.971220.
+The error of number 35 slice is 0.747695.
+The error of number 35 slice is 0.953657.
+The error of number 35 slice is 0.957063.
+The error of number 35 slice is 0.935070.
+The error of number 35 slice is 0.901805.
+The error of number 35 slice is 0.892235.
+The error of number 35 slice is 0.886805.
+The error of number 35 slice is 0.873222.
