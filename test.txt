@@ -1,0 +1,63 @@
+
+ n=   65, projection NO:  2500
+Tik: 0.207517   
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+Tik: 0.893203   TV adapt: 0.931303  
+Tik: 0.926694   TV adapt: 1.149062  
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+Tik: 0.358891   
+ n=   65, projection NO:  1200
+
+ n=   65, projection NO:  1200
+Tik: 0.219506   
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+Tik: 0.359569   TV adapt: 0.142987  
+Tik: 0.532103   TV adapt: 0.215294  
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   200
+
+ n=   65, projection NO:   500
+Tik: 0.231778   
+ n=   65, projection NO:   500
+Tik: 0.231506   
+ n=   65, projection NO:   500
+Tik: 0.231506   TV adapt: 0.102093  
+
+ n=   65, projection NO:   500
+
+ n=   65, projection NO:   500
+Tik: 0.231506   TV adapt: 0.102093  
+
+ n=   65, projection NO:   500
+Tik: 0.231506   TV adapt: 0.102093  
+
+ n=   65, projection NO:   500
+
+ n=   69, projection NO:   500
+Tik: 0.237056   TV adapt: 0.107642  
+
+ n=   69, projection NO:   500
+Tik: 0.235384   TV adapt: 0.107847  
+Tik: 0.343488   TV adapt: 0.173226  
+
+ n=   69, projection NO:   500
+Tik: 0.235384   TV adapt: 0.107847  

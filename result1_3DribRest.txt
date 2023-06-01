@@ -1,0 +1,8 @@
+
+ n =   65, projection NO:   500  SNR=8.000
+
+ n =   65, projection NO:   500  SNR=8.000
+The RE of firm reconstruction is 3.838852.
+The RE of tikfix reconstruction is 0.324205.
+The RE of Tikadapt: 0.143263   
+The RE of TV adapt is 0.117878.
